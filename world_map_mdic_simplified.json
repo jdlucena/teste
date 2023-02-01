@@ -1,0 +1,3239 @@
+{
+    "type": "Topology",
+    "objects": {
+        "data": {
+            "geometries": [
+                {
+                    "properties": {
+                        "country_comex_shortname": "FJI", "country_comex_id": 870, "country_comex_name": "Fiji"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[0]], [[1]], [[2]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TZA",
+                        "country_comex_id": 780,
+                        "country_comex_name": "Tanzânia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[-92, 3, 4, 5]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ESH",
+                        "country_comex_id": 685,
+                        "country_comex_name": "Saara Ocidental"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[6, -216, 7, -488, 8]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CAN",
+                        "country_comex_id": 149,
+                        "country_comex_name": "Canadá"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [
+                        [[9, -42, 10]], [[11]], [[12]], [[13]], [[14]], [[15]], [[16]], [[17]], [[18]], [[19]],
+                        [[20]], [[21]], [[22]], [[23]], [[24]], [[25]], [[26]], [[27]], [[28]], [[29]], [[30]],
+                        [[31]], [[32]], [[33]], [[34]], [[35]], [[36]], [[37]], [[38]], [[39]]
+                    ]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "USA",
+                        "country_comex_id": 249,
+                        "country_comex_name": "Estados Unidos"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [
+                        [[40, 41, 42, -147, 43, 44]], [[45]], [[46]], [[47]], [[48]], [[49]], [[50]], [[51]],
+                        [[52]], [[53]]
+                    ]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "USA",
+                        "country_comex_id": 396,
+                        "country_comex_name": "Johnston - Ilhas"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [
+                        [[40, 41, 42, -147, 43, 44]], [[45]], [[46]], [[47]], [[48]], [[49]], [[50]], [[51]],
+                        [[52]], [[53]]
+                    ]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "USA",
+                        "country_comex_id": 873,
+                        "country_comex_name": "Wake - Ilha"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [
+                        [[40, 41, 42, -147, 43, 44]], [[45]], [[46]], [[47]], [[48]], [[49]], [[50]], [[51]],
+                        [[52]], [[53]]
+                    ]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "KAZ",
+                        "country_comex_id": 153,
+                        "country_comex_name": "Cazaquistão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[54, -114]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "UZB",
+                        "country_comex_id": 847,
+                        "country_comex_name": "Uzbequistão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[55, -338, 56, 57]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PNG",
+                        "country_comex_id": 545,
+                        "country_comex_name": "Papua Nova Guiné"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[58, -63]], [[59]], [[60]], [[61]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PNG",
+                        "country_comex_id": 583,
+                        "country_comex_name": "Papua - Território de"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[58, -63]], [[59]], [[60]], [[61]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "IDN",
+                        "country_comex_id": 365,
+                        "country_comex_name": "Indonésia"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [
+                        [[62, 63]], [[139]], [[64]], [[65, -448]], [[66]], [[67]], [[68]], [[69]], [[70]],
+                        [[71]], [[72]], [[73]], [[74]]
+                    ]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ARG",
+                        "country_comex_id": 63,
+                        "country_comex_name": "Argentina"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[75]], [[76, -83, 77, 78, -464, 79]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CHL", "country_comex_id": 158, "country_comex_name": "Chile"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[80]], [[81, 82, 83]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "COD",
+                        "country_comex_id": 888,
+                        "country_comex_name": "Congo - República Democrática"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[84, -262, 85, 86]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SOM",
+                        "country_comex_id": 748,
+                        "country_comex_name": "Somália"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[87, 88, 89, 90]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "KEN",
+                        "country_comex_id": 623,
+                        "country_comex_name": "Quênia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[91, -508, 92, 93, 94]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SDN", "country_comex_id": 759, "country_comex_name": "Sudão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[95, 96, -490, 97, -518, 98]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TCD", "country_comex_id": 788, "country_comex_name": "Chade"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[99, 100, -259, 101, 102, 103, -493]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "HTI", "country_comex_id": 341, "country_comex_name": "Haiti"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[104]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "DOM",
+                        "country_comex_id": 647,
+                        "country_comex_name": "República Dominicana"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[105]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "RUS",
+                        "country_comex_id": 676,
+                        "country_comex_name": "Rússia"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [
+                        [[106]], [[107, -361, 108, -356, 109, -452, 110, -420, 111, -329, 112, 113, 114]],
+                        [[115]], [[116]], [[117]], [[118]], [[119]], [[120]], [[121]], [[122]], [[123]],
+                        [[124]], [[125]], [[126]]
+                    ]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BHS",
+                        "country_comex_id": 77,
+                        "country_comex_name": "Bahamas"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[127]], [[128]], [[129]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "FLK",
+                        "country_comex_id": 255,
+                        "country_comex_name": "Falkland (Malvinas)"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[130]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "-99", "country_comex_id": 0, "country_comex_name": nan
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[131]], [[132, 133, -353, 134]], [[135]], [[136]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GRL",
+                        "country_comex_id": 305,
+                        "country_comex_name": "Groenlândia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[137]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ATF",
+                        "country_comex_id": 781,
+                        "country_comex_name": "Terras Austrais Francesas"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[138]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TLS",
+                        "country_comex_id": 795,
+                        "country_comex_name": "Timor Leste"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[139]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ZAF",
+                        "country_comex_id": 756,
+                        "country_comex_name": "África do Sul"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[140, 141, -201, 142, 143], [144]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "LSO",
+                        "country_comex_id": 426,
+                        "country_comex_name": "Lesoto"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[144]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MEX",
+                        "country_comex_id": 493,
+                        "country_comex_name": "México"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[145, 146, 147, 148]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "URY",
+                        "country_comex_id": 845,
+                        "country_comex_name": "Uruguai"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[-152, 149]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BRA",
+                        "country_comex_id": 100,
+                        "country_comex_name": "Internação na Zona Franca de Manaus"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[-151, -152, -153]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BRA",
+                        "country_comex_id": 105,
+                        "country_comex_name": "Brasil"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[-151, -152, -153]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BOL",
+                        "country_comex_id": 97,
+                        "country_comex_name": "Bolívia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[153, -466, 154, 155, 156, 157]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PER", "country_comex_id": 589, "country_comex_name": "Peru"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[158, 159, -193, 160]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "COL",
+                        "country_comex_id": 169,
+                        "country_comex_name": "Colômbia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[161, 162]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PAN",
+                        "country_comex_id": 580,
+                        "country_comex_name": "Panamá"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[163, 164]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CRI",
+                        "country_comex_id": 196,
+                        "country_comex_name": "Costa Rica"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[165, 166]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "NIC",
+                        "country_comex_id": 521,
+                        "country_comex_name": "Nicarágua"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[167, 168]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "HND",
+                        "country_comex_id": 345,
+                        "country_comex_name": "Honduras"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[169, 170, 171]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SLV",
+                        "country_comex_id": 687,
+                        "country_comex_name": "El Salvador"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[172]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GTM",
+                        "country_comex_id": 317,
+                        "country_comex_name": "Guatemala"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[173, 174, 175]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BLZ", "country_comex_id": 88, "country_comex_name": "Belize"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[176]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "VEN",
+                        "country_comex_id": 850,
+                        "country_comex_name": "Venezuela"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[177, 178]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GUY",
+                        "country_comex_id": 337,
+                        "country_comex_name": "Guiana"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[179, 180, -183]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SUR",
+                        "country_comex_id": 770,
+                        "country_comex_name": "Suriname"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[181, 182, 183, -186]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "-99", "country_comex_id": 0, "country_comex_name": nan
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[184, 185, 186]], [[187, 188, 189]], [[190]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ECU",
+                        "country_comex_id": 239,
+                        "country_comex_name": "Equador"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[191, 192, 193]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PRI",
+                        "country_comex_id": 611,
+                        "country_comex_name": "Porto Rico"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[194]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "JAM",
+                        "country_comex_id": 391,
+                        "country_comex_name": "Jamaica"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[195]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CUB", "country_comex_id": 199, "country_comex_name": "Cuba"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[196]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ZWE",
+                        "country_comex_id": 665,
+                        "country_comex_name": "Zimbábue"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[197, 198, 199]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BWA",
+                        "country_comex_id": 101,
+                        "country_comex_name": "Botsuana"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[200, 201, -208, 202, 203]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "NAM",
+                        "country_comex_id": 507,
+                        "country_comex_name": "Namíbia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[204, 205, 206, 207]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SEN",
+                        "country_comex_id": 728,
+                        "country_comex_name": "Senegal"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[208, 209]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MLI", "country_comex_id": 464, "country_comex_name": "Mali"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[210, 211, 212, 213]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MRT",
+                        "country_comex_id": 488,
+                        "country_comex_name": "Mauritânia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[214, 215, 216]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BEN", "country_comex_id": 229, "country_comex_name": "Benin"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[217, -236, 218, 219]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "NER", "country_comex_id": 525, "country_comex_name": "Níger"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[220, 221, -228, 222, 223, 224, 225]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "NGA",
+                        "country_comex_id": 528,
+                        "country_comex_name": "Nigéria"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[226, 227, 228, 229]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CMR",
+                        "country_comex_id": 145,
+                        "country_comex_name": "Camarões"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[230, 231, 232, 233, 234]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TGO", "country_comex_id": 800, "country_comex_name": "Togo"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[235, 236]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GHA", "country_comex_id": 289, "country_comex_name": "Gana"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[237]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CIV",
+                        "country_comex_id": 193,
+                        "country_comex_name": "Costa do Marfim"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[238, 239]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GIN", "country_comex_id": 329, "country_comex_name": "Guiné"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[240, 241, -250, 242, -245]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GNB",
+                        "country_comex_id": 334,
+                        "country_comex_name": "Guiné -Bissau"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[243, 244, 245]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "LBR",
+                        "country_comex_id": 434,
+                        "country_comex_name": "Libéria"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[246, 247, 248]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SLE",
+                        "country_comex_id": 735,
+                        "country_comex_name": "Serra Leoa"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[249, 250, 251]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BFA",
+                        "country_comex_id": 31,
+                        "country_comex_name": "Burkina Faso"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[252, 253, 254]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CAF",
+                        "country_comex_id": 640,
+                        "country_comex_name": "República Centro -Africana"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[255, 256, 257, 258, 259]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "COG", "country_comex_id": 177, "country_comex_name": "Congo"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[260, 261, 262, -266, 263]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GAB", "country_comex_id": 281, "country_comex_name": "Gabão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[264, 265, 266]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GNQ",
+                        "country_comex_id": 331,
+                        "country_comex_name": "Guiné Equatorial"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[267]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ZMB",
+                        "country_comex_id": 890,
+                        "country_comex_name": "Zâmbia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[268, 269, -277, 270]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MWI",
+                        "country_comex_id": 458,
+                        "country_comex_name": "Malavi"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[271]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MOZ",
+                        "country_comex_id": 505,
+                        "country_comex_name": "Moçambique"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[272]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SWZ",
+                        "country_comex_id": 754,
+                        "country_comex_name": "Suazilândia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[273]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "AGO", "country_comex_id": 40, "country_comex_name": "Angola"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[274]], [[275, 276, 277, 278]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BDI",
+                        "country_comex_id": 115,
+                        "country_comex_name": "Burundi"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[279]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ISR",
+                        "country_comex_id": 383,
+                        "country_comex_name": "Israel"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[280]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "LBN",
+                        "country_comex_id": 431,
+                        "country_comex_name": "Líbano"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[281]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MDG",
+                        "country_comex_id": 450,
+                        "country_comex_name": "Madagascar"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[282]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PSE",
+                        "country_comex_id": 578,
+                        "country_comex_name": "Palestina"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[283]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GMB",
+                        "country_comex_id": 285,
+                        "country_comex_name": "Gâmbia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[284]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TUN",
+                        "country_comex_id": 820,
+                        "country_comex_name": "Tunísia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[285, -291, 286, 287]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "DZA",
+                        "country_comex_id": 59,
+                        "country_comex_name": "Argélia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[288, -486, 289, 290, 291, 292, 293]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "JOR",
+                        "country_comex_id": 403,
+                        "country_comex_name": "Jordânia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[294, 295]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ARE", "country_comex_id": 237, "country_comex_name": "Dubai"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[296]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ARE",
+                        "country_comex_id": 244,
+                        "country_comex_name": "Emirados Árabes Unidos"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[296]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "QAT", "country_comex_id": 154, "country_comex_name": "Catar"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[297]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "KWT",
+                        "country_comex_id": 198,
+                        "country_comex_name": "Coveite (Kuweit)"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[298]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "IRQ",
+                        "country_comex_id": 369,
+                        "country_comex_name": "Iraque"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[299, 300, 301, 302, -472]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "OMN", "country_comex_id": 556, "country_comex_name": "Omã"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[303, -468, 304, 305]], [[306]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "VUT",
+                        "country_comex_id": 551,
+                        "country_comex_name": "Vanuatu"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[307]], [[308]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "KHM",
+                        "country_comex_id": 141,
+                        "country_comex_name": "Camboja"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[309, 310]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "THA",
+                        "country_comex_id": 776,
+                        "country_comex_name": "Tailândia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[311, -315, 312]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "LAO", "country_comex_id": 420, "country_comex_name": "Laos"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[313, 314, 315, -320, 316]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MMR",
+                        "country_comex_id": 93,
+                        "country_comex_name": "Mianmar"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[317]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "VNM",
+                        "country_comex_id": 858,
+                        "country_comex_name": "Vietnã"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[318, 319, 320, -424, 321]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PRK",
+                        "country_comex_id": 187,
+                        "country_comex_name": "Coreia do Norte"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[322]], [[323, 324, -422]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "KOR",
+                        "country_comex_id": 190,
+                        "country_comex_name": "Coreia do Sul"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[325, 326]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MNG",
+                        "country_comex_id": 497,
+                        "country_comex_name": "Mongólia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[327, 328, 329, -418]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "IND", "country_comex_id": 361, "country_comex_name": "Índia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[330]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BGD",
+                        "country_comex_id": 81,
+                        "country_comex_name": "Bangladesh"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[331]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BTN", "country_comex_id": 119, "country_comex_name": "Butão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[332]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "NPL", "country_comex_id": 517, "country_comex_name": "Nepal"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[333]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PAK",
+                        "country_comex_id": 576,
+                        "country_comex_name": "Paquistão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[334]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "AFG",
+                        "country_comex_id": 13,
+                        "country_comex_name": "Afeganistão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[335, 336]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TJK",
+                        "country_comex_id": 772,
+                        "country_comex_name": "Tadjiquistão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[337, 338, 339]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "KGZ",
+                        "country_comex_id": 625,
+                        "country_comex_name": "Quirguistão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[340, 341, 342]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TKM",
+                        "country_comex_id": 824,
+                        "country_comex_name": "Turcomenistão"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[343, 344, 345]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "IRN", "country_comex_id": 372, "country_comex_name": "Irã"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[346, 347, 348]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SYR", "country_comex_id": 744, "country_comex_name": "Síria"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[349]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ARM",
+                        "country_comex_id": 64,
+                        "country_comex_name": "Armênia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[350, 351]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SWE",
+                        "country_comex_id": 764,
+                        "country_comex_name": "Suécia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[352, 353, 354]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BLR",
+                        "country_comex_id": 85,
+                        "country_comex_name": "Belarus"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[355, 356, -364, 357, 358]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "UKR",
+                        "country_comex_id": 831,
+                        "country_comex_name": "Ucrânia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[359, 360, 361, 362, 363, 364]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "POL",
+                        "country_comex_id": 603,
+                        "country_comex_name": "Polônia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[365, 366]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "AUT",
+                        "country_comex_id": 72,
+                        "country_comex_name": "Áustria"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[367]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "HUN",
+                        "country_comex_id": 355,
+                        "country_comex_name": "Hungria"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[368]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MDA",
+                        "country_comex_id": 494,
+                        "country_comex_name": "Moldávia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[369]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ROU",
+                        "country_comex_id": 670,
+                        "country_comex_name": "Romênia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[370, 371, 372]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "LTU",
+                        "country_comex_id": 442,
+                        "country_comex_name": "Lituânia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[373, 374, 375]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "LVA",
+                        "country_comex_id": 427,
+                        "country_comex_name": "Letônia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[376, 377, 378]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "EST",
+                        "country_comex_id": 251,
+                        "country_comex_name": "Estônia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[379]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "DEU",
+                        "country_comex_id": 23,
+                        "country_comex_name": "Alemanha"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[380, -458, 381, 382]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "DEU",
+                        "country_comex_id": 25,
+                        "country_comex_name": "Alemanha Oriental"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[380, -458, 381, 382]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BGR",
+                        "country_comex_id": 111,
+                        "country_comex_name": "Bulgária"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[383, 384, 385]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GRC",
+                        "country_comex_id": 301,
+                        "country_comex_name": "Grécia"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[386]], [[387]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TUR",
+                        "country_comex_id": 827,
+                        "country_comex_name": "Turquia"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[388]], [[389]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ALB",
+                        "country_comex_id": 17,
+                        "country_comex_name": "Albânia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[390]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "HRV",
+                        "country_comex_id": 195,
+                        "country_comex_name": "Croácia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[391]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CHE", "country_comex_id": 767, "country_comex_name": "Suíça"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[392]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "LUX",
+                        "country_comex_id": 445,
+                        "country_comex_name": "Luxemburgo"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[393]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BEL",
+                        "country_comex_id": 87,
+                        "country_comex_name": "Bélgica"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[394, 395]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "NLD",
+                        "country_comex_id": 573,
+                        "country_comex_name": "Países Baixos (Holanda)"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[396, 397]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PRT",
+                        "country_comex_id": 452,
+                        "country_comex_name": "Madeira - Ilha da"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[-401, 398]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PRT",
+                        "country_comex_id": 607,
+                        "country_comex_name": "Portugal"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[-401, 398]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ESP",
+                        "country_comex_id": 20,
+                        "country_comex_name": "Alboran -Perejil - Ilhas"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[399, 400, 401, 402]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ESP",
+                        "country_comex_id": 151,
+                        "country_comex_name": "Canárias - Ilhas"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[399, 400, 401, 402]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ESP",
+                        "country_comex_id": 245,
+                        "country_comex_name": "Espanha"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[399, 400, 401, 402]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "IRL",
+                        "country_comex_id": 375,
+                        "country_comex_name": "Irlanda"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[403]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "NCL",
+                        "country_comex_id": 542,
+                        "country_comex_name": "Nova Caledônia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[404]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SLB",
+                        "country_comex_id": 677,
+                        "country_comex_name": "Salomão - Ilhas"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[405]], [[406]], [[407]], [[408]], [[409]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "NZL",
+                        "country_comex_id": 548,
+                        "country_comex_name": "Nova Zelândia"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[410]], [[411]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "AUS",
+                        "country_comex_id": 69,
+                        "country_comex_name": "Austrália"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[412]], [[413]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "LKA",
+                        "country_comex_id": 750,
+                        "country_comex_name": "Sri Lanka"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[414]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CHN", "country_comex_id": 160, "country_comex_name": "China"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[415]], [[416, 417, 418, 419, 420, 421, 422, 423, 424]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TWN",
+                        "country_comex_id": 161,
+                        "country_comex_name": "Taiwan (Formosa)"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[425]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ITA",
+                        "country_comex_id": 386,
+                        "country_comex_name": "Itália"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[426, 427]], [[428]], [[429]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "DNK",
+                        "country_comex_id": 232,
+                        "country_comex_name": "Dinamarca"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[430]], [[431]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GBR",
+                        "country_comex_id": 152,
+                        "country_comex_name": "Canal - Ilhas do (Jersey)"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[432]], [[433]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GBR",
+                        "country_comex_id": 367,
+                        "country_comex_name": "Inglaterra"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[432]], [[433]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GBR",
+                        "country_comex_id": 628,
+                        "country_comex_name": "Reino Unido"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[432]], [[433]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GBR",
+                        "country_comex_id": 786,
+                        "country_comex_name": "Território Antártico Britânico"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[432]], [[433]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ISL",
+                        "country_comex_id": 379,
+                        "country_comex_name": "Islândia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[434]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "AZE",
+                        "country_comex_id": 73,
+                        "country_comex_name": "Azerbaijão"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[435, 436]], [[437]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "GEO",
+                        "country_comex_id": 291,
+                        "country_comex_name": "Geórgia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[438]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PHL",
+                        "country_comex_id": 267,
+                        "country_comex_name": "Filipinas"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[439]], [[440]], [[441]], [[442]], [[443]], [[444]], [[445]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MYS",
+                        "country_comex_id": 423,
+                        "country_comex_name": "Lebuan - Ilhas"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[446]], [[447, 448]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MYS",
+                        "country_comex_id": 455,
+                        "country_comex_name": "Malásia"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[446]], [[447, 448]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BRN",
+                        "country_comex_id": 108,
+                        "country_comex_name": "Brunei"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[449]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SVN",
+                        "country_comex_id": 246,
+                        "country_comex_name": "Eslovênia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[450]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "FIN",
+                        "country_comex_id": 271,
+                        "country_comex_name": "Finlândia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[451, 452, 453, 454]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SVK",
+                        "country_comex_id": 247,
+                        "country_comex_name": "Eslováquia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[455]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CZE",
+                        "country_comex_id": 791,
+                        "country_comex_name": "Tcheca - República"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[456, 457]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ERI",
+                        "country_comex_id": 243,
+                        "country_comex_name": "Eritreia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[458, -501]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "JPN", "country_comex_id": 399, "country_comex_name": "Japão"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[459]], [[460]], [[461]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "PRY",
+                        "country_comex_id": 586,
+                        "country_comex_name": "Paraguai"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[462, 463, 464, 465, 466]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "YEM", "country_comex_id": 357, "country_comex_name": "Iêmen"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[467, 468, -475, 469]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SAU",
+                        "country_comex_id": 53,
+                        "country_comex_name": "Arábia Saudita"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[470, 471, 472, 473, 474, 475]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ATA",
+                        "country_comex_id": 42,
+                        "country_comex_name": "Antártica"
+                    },
+                    "type": "MultiPolygon",
+                    "arcs": [[[476]], [[477]], [[478]], [[479]], [[480]], [[481]], [[482]], [[483]]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "-99", "country_comex_id": 0, "country_comex_name": nan
+                    },
+                    "type": "Polygon",
+                    "arcs": [[484]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "CYP",
+                        "country_comex_id": 163,
+                        "country_comex_name": "Chipre"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[484]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MAR",
+                        "country_comex_id": 474,
+                        "country_comex_name": "Marrocos"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[485, 486, 487, 488]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "EGY", "country_comex_id": 240, "country_comex_name": "Egito"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[489, 490]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "LBY", "country_comex_id": 438, "country_comex_name": "Líbia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[491, 492, 493, 494, 495]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "ETH",
+                        "country_comex_id": 253,
+                        "country_comex_name": "Etiópia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[496, 497, 498, 499, 500, 501, -505]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "DJI",
+                        "country_comex_id": 783,
+                        "country_comex_name": "Djibuti"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[502]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "-99", "country_comex_id": 0, "country_comex_name": nan
+                    },
+                    "type": "Polygon",
+                    "arcs": [[503, 504, 505]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "UGA",
+                        "country_comex_id": 833,
+                        "country_comex_name": "Uganda"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[506, 507]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "RWA",
+                        "country_comex_id": 675,
+                        "country_comex_name": "Ruanda"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[508]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "BIH",
+                        "country_comex_id": 98,
+                        "country_comex_name": "Bósnia -Herzegovina"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[509]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MKD",
+                        "country_comex_id": 449,
+                        "country_comex_name": "Macedônia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[510]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SRB",
+                        "country_comex_id": 737,
+                        "country_comex_name": "Sérvia"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[511, 512]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "MNE",
+                        "country_comex_id": 498,
+                        "country_comex_name": "Montenegro"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[513]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "-99", "country_comex_id": 0, "country_comex_name": nan
+                    },
+                    "type": "Polygon",
+                    "arcs": [[514]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "TTO",
+                        "country_comex_id": 815,
+                        "country_comex_name": "Trinidad e Tobago"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[515]]
+                },
+                {
+                    "properties": {
+                        "country_comex_shortname": "SSD",
+                        "country_comex_id": 760,
+                        "country_comex_name": "Sudão do Sul"
+                    },
+                    "type": "Polygon",
+                    "arcs": [[516, 517, 518, 519]]
+                }
+            ],
+            "type": "GeometryCollection"
+        }
+    },
+    "bbox": [-180.0, -90.00000000000327, 180.0, 83.64513000000001],
+    "arcs": [
+        [[180.0, -16.067132663642447], [180.0, -16.067132663642447]],
+        [[178.12557, -17.50481], [178.12557, -17.50481]],
+        [
+            [-179.79332010904864, -16.020882256741224], [-179.79332010904864, -16.020882256741224]
+        ],
+        [
+            [39.20222, -4.67677], [39.94960000000003, -10.098400000000026],
+            [34.55998904799935, -11.520020033415925]
+        ],
+        [
+            [34.55998904799935, -11.520020033415925], [33.73972000000009, -9.417149999999992],
+            [30.74001549655179, -8.340007419470915], [29.339997592900346, -4.4999834122940925]
+        ],
+        [
+            [29.339997592900346, -4.4999834122940925], [30.769860000000108, -1.0145499999999856],
+            [33.90371119710453, -0.9500000000000001]
+        ],
+        [
+            [-8.665589565454809, 27.656425889592356], [-8.6872936670174, 25.881056219988906],
+            [-11.96941891117116, 25.933352769468268]
+        ],
+        [[-12.929101935263532, 21.327070624267563], [-14.750954555713534, 21.500600083903663]],
+        [[-11.392554897497007, 26.883423977154393], [-8.665589565454809, 27.656425889592356]],
+        [
+            [0.0, 49.000000000001535], [-124.91024, 49.98456], [-68.51114, 49.068360000000006],
+            [-71.10458, 46.82171], [-66.55243, 49.1331], [-64.47219, 46.238490000000006],
+            [-59.80287, 45.9204], [-65.36406000000001, 43.54523],
+            [-67.79046000000001, 47.066359999999996], [-69.237216, 47.447781]
+        ],
+        [[-95.15906950917206, 49.0], [-122.84000000000003, 49.000000000000114]],
+        [[-83.99367000000001, 62.452799999999996], [-83.99367000000001, 62.452799999999996]],
+        [[-79.77583312988281, 72.8029022216797], [-79.77583312988281, 72.8029022216797]],
+        [[-80.315395, 62.08556500000001], [-80.315395, 62.08556500000001]],
+        [[-93.61275590694046, 74.97999726022438], [-93.61275590694046, 74.97999726022438]],
+        [[-93.84000301794399, 77.51999726023455], [-93.84000301794399, 77.51999726023455]],
+        [[-96.75439876990876, 78.76581268992702], [-96.75439876990876, 78.76581268992702]],
+        [
+            [-88.15035030796028, 74.39230703398503], [-92.42244096552946, 74.83775788034099],
+            [-96.74512285031237, 77.16138865834507], [-91.6050231595366, 76.7785179714946],
+            [-89.18708289259985, 75.61016551380762], [-81.12853084992436, 75.71398346628199],
+            [-81.94884253612557, 74.44245901152432], [-88.15035030796028, 74.39230703398503]
+        ],
+        [[-111.26444332563088, 78.15295604116154], [-111.26444332563088, 78.15295604116154]],
+        [[-110.96366065147602, 78.8044408230652], [-110.96366065147602, 78.8044408230652]],
+        [
+            [-55.600218268442056, 51.31707469339794], [-56.795881720595276, 49.81230866149089],
+            [-53.47654944519137, 49.24913890237404], [-54.24048214376214, 47.752279364607645],
+            [-59.26601518414682, 47.60334788674247], [-57.35868974468606, 50.71827403421587],
+            [-55.600218268442056, 51.31707469339794]
+        ],
+        [
+            [-83.88262630891977, 65.10961782496354], [-85.52340471061905, 63.052379055424055],
+            [-85.88384782585486, 65.7387783881171], [-83.88262630891977, 65.10961782496354]
+        ],
+        [
+            [0.0, 72.3521731635368], [0.0, 72.74961660429051],
+            [-75.60584469267573, 72.2436784939374], [-68.7860542466849, 70.52502370877427],
+            [-68.8051228502006, 68.72019847276444], [-61.851981370680605, 66.86212067327783],
+            [-63.918444383384184, 64.9986685248329], [-66.72121904159852, 66.38804108343219],
+            [-65.01380388045888, 62.67418508569598], [-68.7831862046927, 63.74567007105183],
+            [-68.87736650254465, 62.330149237712824], [-77.89728105336198, 65.30919220647475],
+            [-73.95979529488268, 65.45476471624094], [-73.31161780464572, 68.06943716091287],
+            [-78.95724219431673, 70.16688019477543], [-81.30547095409176, 69.74318512641436],
+            [-88.68171322300148, 70.4107412787608], [-90.20516028518205, 72.23507436796079],
+            [-88.40824154331287, 73.53788890247121], [-82.31559017610101, 73.7509508328106],
+            [-78.77063859731078, 72.35217316353418]
+        ],
+        [
+            [-94.50365759965237, 74.13490672473922], [-90.50979285354263, 73.85673248971206],
+            [-94.26904659704726, 72.02459625923599], [-94.50365759965237, 74.13490672473922]
+        ],
+        [
+            [-122.85492448615902, 76.11654287383568], [-119.1039389718211, 77.51221995717462],
+            [-116.33581336145845, 76.87696157501061], [-122.85492448615902, 76.11654287383568]
+        ],
+        [[-132.71000788443126, 54.04000931542356], [-132.71000788443126, 54.04000931542356]],
+        [[-105.4922891914932, 79.30159393992916], [-105.4922891914932, 79.30159393992916]],
+        [[-123.51000158755119, 48.51001089130341], [-123.51000158755119, 48.51001089130341]],
+        [
+            [-121.53787999999997, 74.44893000000002], [-115.51080999999999, 73.47519],
+            [-123.09218999999996, 70.90164000000004], [-125.92894873747338, 71.86868846301138],
+            [-121.53787999999997, 74.44893000000002]
+        ],
+        [
+            [-107.81943000000001, 75.84552000000001], [-106.31347000000001, 75.00527],
+            [-112.22306999999999, 74.41696], [-111.79420999999999, 75.16250000000001],
+            [-117.7104, 75.2222], [-115.40487, 76.47887], [-107.81943000000001, 75.84552000000001]
+        ],
+        [
+            [-106.52258999999992, 73.07601], [-104.4647599999999, 70.99297000000007],
+            [-100.98077999999992, 70.02431999999999], [-102.43024000000003, 68.75281999999999],
+            [-105.96000000000004, 69.18000000000012], [-113.31320000000005, 68.53553999999997],
+            [-119.40199000000001, 71.55858999999998], [-117.86641999999995, 72.70594000000006],
+            [-106.52258999999992, 73.07601]
+        ],
+        [
+            [-100.43836, 72.70588000000001], [-97.38, 73.76], [-98.35966, 71.27284999999999],
+            [-100.43836, 72.70588000000001]
+        ],
+        [[-106.6, 73.60000000000001], [-106.6, 73.60000000000001]],
+        [
+            [-98.50000000000001, 76.72], [-98.16000000000001, 75.0], [-102.56552, 76.3366],
+            [-98.50000000000001, 76.72]
+        ],
+        [
+            [-96.01644, 80.60233000000001], [-92.40983999999999, 81.25739000000003],
+            [-85.81435, 79.3369], [-89.03535000000001, 78.28723],
+            [-92.87669000000001, 78.34333000000001], [-96.01644, 80.60233000000001]
+        ],
+        [
+            [0.0, 81.89428999999961], [0.0, 82.0850000000022], [-88.93227, 82.11751000000001],
+            [-65.48031, 81.50657000000002], [-71.18, 79.8], [-76.90773, 79.32309000000001],
+            [-75.39345, 78.52581], [-80.56125, 76.17812], [-89.49068, 76.47239],
+            [-85.09495, 79.34543000000001], [-91.58702000000001, 81.89429000000001]
+        ],
+        [[-75.21597, 67.44425], [-75.21597, 67.44425]],
+        [[-96.25740120380055, 69.49003035832177], [-96.25740120380055, 69.49003035832177]],
+        [[-64.51912, 49.87304], [-64.51912, 49.87304]],
+        [[-64.01486, 47.03601], [-64.01486, 47.03601]],
+        [[0.0, 49.000000000001535], [-95.15906950917206, 49.0]],
+        [
+            [-95.15906950917206, 49.0], [-88.37811418328671, 48.302917588893706],
+            [-82.55092464875821, 45.34751658790543], [-82.4392777167916, 41.675105088867326],
+            [-74.86700000000002, 45.000480000000096], [-71.50506, 45.0082], [-69.237216, 47.447781]
+        ],
+        [
+            [-69.237216, 47.447781], [-66.96465999999998, 44.809700000000134],
+            [-70.11616999999995, 43.68405000000013], [-69.96502999999996, 41.63717000000014],
+            [-72.87643000000003, 41.220650000000035], [-75.72204999999985, 37.93705000000011],
+            [-75.72748999999999, 35.55074000000013], [-81.49041999999997, 30.7299900000001],
+            [-80.05653928497759, 26.88000000000011], [-81.17212999999998, 25.201260000000104],
+            [-83.70958999999999, 29.936560000000043], [-89.5938311784198, 30.159994004836847],
+            [-89.40822999999995, 29.159610000000043], [-94.69, 29.480000000000132],
+            [-99.01999999999992, 26.37000000000006]
+        ],
+        [[-111.02361000000002, 31.334719999999948], [-117.12775999999985, 32.53533999999996]],
+        [
+            [-117.12775999999985, 32.53533999999996], [-120.36777999999998, 34.447110000000066],
+            [-123.72720000000004, 38.95166000000012], [-124.53283999999996, 42.7659900000001],
+            [-124.56610107421875, 48.37971496582037], [-122.84000000000003, 49.000000000000114]
+        ],
+        [[-155.40214, 20.07975], [-155.40214, 20.07975]],
+        [[-155.99566000000002, 20.76404], [-155.99566000000002, 20.76404]],
+        [[-156.75824, 21.176840000000002], [-156.75824, 21.176840000000002]],
+        [[-158.0252, 21.71696], [-158.0252, 21.71696]],
+        [[-159.36569, 22.21494], [-159.36569, 22.21494]],
+        [[-166.46779212142462, 60.384169826897754], [-166.46779212142462, 60.384169826897754]],
+        [[-153.22872941792113, 57.96896841087248], [-153.22872941792113, 57.96896841087248]],
+        [
+            [0.0, 69.7119983995284], [-140.9925, 66.00003000000001],
+            [-140.99778, 60.30639000000001], [-139.867787041413, 59.53776154238915],
+            [-147.11437394914665, 60.884656073644635], [-153.28751135965317, 58.86472768821977],
+            [-158.43332129619714, 55.99415355083852], [-164.94222632552007, 54.57222483989534],
+            [-157.72277035218391, 57.57000051536306], [-163.8183414378202, 59.79805573184336],
+            [-166.12137915755602, 61.50001902937623], [-160.77777767641481, 64.78860382756642],
+            [-164.96082984114514, 64.44694509546883], [-168.11056006576715, 65.66999705673675],
+            [-164.47470964257548, 66.5766600612975], [-165.39028683170673, 68.04277212185025],
+            [-161.90889726463556, 70.33332998318764], [-156.58082455139808, 71.35776357694175],
+            [-152.27000240782613, 70.60000621202983], [-140.98598761037601, 69.71199839952635]
+        ],
+        [[-171.73165686753944, 63.782515367275934], [-171.73165686753944, 63.782515367275934]],
+        [
+            [0.0, 49.21498078063058], [0.0, 48.54918162698203],
+            [85.7682328633083, 48.45575063739699], [46.75159630716274, 49.35600576435377],
+            [50.76664839051216, 51.6927623561599]
+        ],
+        [
+            [55.96819135928291, 41.30864166926936], [55.928917270741096, 44.99585846615911],
+            [58.50312706892845, 45.586804307632974], [62.01330040878625, 43.50447663021565],
+            [64.90082441595928, 43.72808055274258], [66.71404707221652, 41.1684435084615],
+            [70.42002241402821, 41.51999827734314], [67.44221967964131, 39.140143541005486]
+        ],
+        [
+            [67.82999962755952, 37.144994004864685], [60.083340691981675, 41.425146185871405],
+            [58.62901085799146, 42.75155101172305]
+        ],
+        [[58.62901085799146, 42.75155101172305], [55.96819135928291, 41.30864166926936]],
+        [
+            [141.00021040259185, -2.60015105551566], [144.58397098203324, -3.861417738463416],
+            [148.73410525939357, -9.104663588093764], [147.913018426708, -10.13044076908745],
+            [144.74416792213805, -7.630128269077446], [141.03385176001382, -9.117892754760483]
+        ],
+        [[152.64001671774253, -3.659983005389691], [152.64001671774253, -3.659983005389691]],
+        [[151.30139041565388, -5.840728448106752], [151.30139041565388, -5.840728448106752]],
+        [[154.75999067608439, -5.339983819198495], [154.75999067608439, -5.339983819198495]],
+        [[141.00021040259185, -2.60015105551566], [141.03385176001382, -9.117892754760483]],
+        [
+            [141.03385176001382, -9.117892754760483], [137.61447391169287, -8.41168263105974],
+            [137.92783979711078, -5.393365573756], [133.66288048719787, -3.538853448097541],
+            [130.5195581401801, -0.9377202286860893], [133.98554813042836, -0.7802104630604559],
+            [134.42262739475302, -2.769184665542376], [138.3297274110447, -1.7026864559026933],
+            [141.00021040259185, -2.60015105551566]
+        ],
+        [[134.21013390516885, -6.89523772545472], [134.21013390516885, -6.89523772545472]],
+        [
+            [117.88203494677018, 4.137551377779516], [117.8118583517178, 0.7842418481437078],
+            [116.14808393764866, -4.012726332214022], [110.223846063276, -2.9340324845534553],
+            [109.0918738139225, -0.45950652425709393], [110.51406090702716, 0.7731314152009645]
+        ],
+        [[129.37099775606094, -2.8021542293445947], [129.37099775606094, -2.8021542293445947]],
+        [[126.87492272349886, -3.7909827612495874], [126.87492272349886, -3.7909827612495874]],
+        [[127.93237755748748, 2.1745962589565693], [127.93237755748748, 2.1745962589565693]],
+        [
+            [122.9275667664518, 0.8751923689774088], [120.18308312386272, 0.2372468123342344],
+            [123.1623327983538, -5.340603936385996], [118.76776899625287, -2.801999200047718],
+            [120.0357019389663, 0.5664773624657613], [122.9275667664518, 0.8751923689774088]
+        ],
+        [[120.29501427620689, -10.258649997603591], [120.29501427620689, -10.258649997603591]],
+        [[121.34166873584651, -8.536739597206072], [121.34166873584651, -8.536739597206072]],
+        [[118.26061648974044, -8.362383314653293], [118.26061648974044, -8.362383314653293]],
+        [
+            [108.48684614464926, -6.42198495852574], [112.6148112325564, -6.946035658397626],
+            [114.56451134649649, -8.751816908404855], [105.36548628135552, -6.851416110871206],
+            [108.48684614464926, -6.42198495852574]
+        ],
+        [
+            [104.36999148968489, -1.0848430314210589], [106.10859337771265, -3.0617766251789647],
+            [105.8176550639094, -5.85235564537242], [102.5842606954069, -4.2202588842981825],
+            [98.60135135294306, 1.8235065779655741], [95.3808760925135, 4.970782172053688],
+            [97.4848820332771, 5.246320909033955], [101.65801232300734, 2.0836974145551608],
+            [104.36999148968489, -1.0848430314210589]
+        ],
+        [
+            [-68.63401022758323, -52.63637045887449], [-65.05, -54.699999999999996],
+            [-68.63335000000001, -54.869499999999995], [-68.63401022758323, -52.63637045887449]
+        ],
+        [
+            [-57.62513342958296, -30.21629485445426], [-58.49544206402655, -34.43148976007008],
+            [-56.78828528504836, -36.901571547189334], [-59.23185706240189, -38.720220228837235],
+            [-62.33595699731013, -38.827707208004334], [-62.145994432205214, -40.67689666113672],
+            [-65.11803524439158, -41.06431487402891], [-63.458059048095876, -42.563138116222405],
+            [-67.58054643418008, -46.30177296324257], [-65.64102657740149, -47.23613453551193],
+            [-69.13853919134777, -50.732510267947795], [-68.14999487982038, -52.34998340612768],
+            [-71.91480383979638, -52.0090223058659], [-73.32805091011453, -50.378785088909915]
+        ],
+        [
+            [-70.53506893581951, -31.36501026787031], [-68.29554155137043, -26.89933969493578],
+            [-68.41765296087614, -24.51855478281688], [-66.27333940292485, -21.83231047942072]
+        ],
+        [
+            [-66.27333940292485, -21.83231047942072], [-62.84646847192156, -22.03498544686945],
+            [-57.77721716981794, -25.16233977630904]
+        ],
+        [
+            [-58.61817359071975, -27.123718763947096], [-53.64873531758789, -26.92347258881609],
+            [-57.62513342958296, -30.21629485445426]
+        ],
+        [
+            [-68.63401022758323, -52.63637045887449], [-68.14862999999991, -55.61183],
+            [-71.00567999999998, -55.053830000000005], [-68.63401022758323, -52.63637045887449]
+        ],
+        [
+            [0.0, -17.580011895419233], [0.0, -18.26012542081284],
+            [-68.96681840684187, -18.981683444904107], [-67.32844295924417, -24.02530323659095],
+            [-70.53506893581951, -31.36501026787031]
+        ],
+        [
+            [-70.53506893581951, -31.36501026787031], [-69.81730912950152, -34.1935714657983],
+            [-71.12188066270987, -36.65812387466232], [-72.14889807807856, -42.254888197601375],
+            [-71.22277889675976, -44.784242852559416], [-73.32805091011453, -50.378785088909915]
+        ],
+        [
+            [-73.32805091011453, -50.378785088909915], [-69.49836218939609, -52.14276091263727],
+            [-71.00633216010525, -53.83325204220132], [-74.94676347522517, -52.262753588419],
+            [-75.64439531116545, -46.64764332457207], [-74.35170935738425, -44.10304412208794],
+            [-73.1667170884993, -37.12378020604439], [-71.4384504869299, -32.41889942803078],
+            [-69.59042375352405, -17.580011895419332]
+        ],
+        [
+            [0.0, -4.499983412294078], [0.0, -5.4199789363865065],
+            [29.419992710088167, -5.939998874539434], [12.468004184629736, -5.248361504745005],
+            [14.582603794013181, -4.97023894615014]
+        ],
+        [
+            [17.523716261472856, -0.743830254726987], [18.54298221199778, 4.201785183118318],
+            [22.405123732195538, 4.029160061047321]
+        ],
+        [
+            [22.405123732195538, 4.029160061047321], [24.410531040146253, 5.10878408448913],
+            [29.71599531425602, 4.600804755060153], [31.174149204235817, 2.204465236821264],
+            [29.875778842902434, 0.5973798689763612], [29.339997592900346, -4.4999834122940925]
+        ],
+        [[41.58513, -1.6832500000000001], [40.98105, 2.7845199999999997]],
+        [[40.98105, 2.7845199999999997], [44.96360000000001, 5.00162]],
+        [
+            [44.96360000000001, 5.00162], [48.93812951029645, 9.451748968946617],
+            [48.94820475850974, 11.410617281697963]
+        ],
+        [
+            [48.94820475850974, 11.410617281697963], [51.1112, 12.024640000000002],
+            [49.45270000000001, 6.80466], [46.56476, 2.85529], [41.58513, -1.6832500000000001]
+        ],
+        [[39.20222, -4.67677], [33.90371119710453, -0.9500000000000001]],
+        [[34.005, 4.249884947362048], [36.159078632855646, 4.447864127672769]],
+        [[36.159078632855646, 4.447864127672769], [40.98105, 2.7845199999999997]],
+        [[40.98105, 2.7845199999999997], [40.993, -0.85829], [39.20222, -4.67677]],
+        [
+            [24.567369012152085, 8.229187933785468], [22.288010000000043, 12.646049999999946],
+            [23.886890000000108, 15.610839999999996]
+        ],
+        [
+            [23.886890000000108, 15.610839999999996], [23.850000000000136, 20.000000000000057],
+            [25.0, 22.0]
+        ],
+        [
+            [36.86622999999997, 22.0], [37.4817900000001, 18.61409000000009],
+            [36.27022000000005, 13.563330000000121], [33.82496348090751, 9.484060845715362],
+            [33.206938084561784, 12.179338268667095]
+        ],
+        [[25.069603699343986, 10.273759963267992], [24.567369012152085, 8.229187933785468]],
+        [[23.83766000000014, 19.580470000000105], [23.886890000000108, 15.610839999999996]],
+        [
+            [23.886890000000108, 15.610839999999996], [22.30350999999996, 14.326820000000055],
+            [22.864165480244225, 11.142395127807546]
+        ],
+        [[15.279460483469109, 7.421924546737969], [15.467872755605242, 9.982336737503545]],
+        [
+            [15.467872755605242, 9.982336737503545], [13.540393507550789, 14.367133693901224],
+            [15.247731154041844, 16.627305813050782]
+        ],
+        [[15.247731154041844, 16.627305813050782], [15.860850000000084, 23.409719999999993]],
+        [[-71.71236141629296, 19.714455878167357], [-71.71236141629296, 19.714455878167357]],
+        [
+            [-71.70830481635805, 18.044997056546094], [-71.58730445014663, 19.8849105900821],
+            [-68.31794328476897, 18.612197577381693], [-71.70830481635805, 18.044997056546094]
+        ],
+        [[178.7253, 71.0988], [178.7253, 71.0988]],
+        [
+            [0.0, 46.39932999999991], [0.0, 45.80629000000016],
+            [47.67590999999999, 45.64149000000015], [38.23295000000002, 46.24087000000003],
+            [40.06904000000014, 49.60104999999999]
+        ],
+        [[35.356116163887975, 50.57719737405904], [30.87390913262001, 55.55097646750341]],
+        [
+            [28.17670942557794, 56.16912995057879], [28.07000000000005, 60.503520000000094],
+            [31.516092156711125, 62.86768748641289]
+        ],
+        [
+            [0.0, 69.0647769232886], [0.0, 69.90594999999973],
+            [40.29234000000014, 67.93240000000003], [38.382949999999994, 65.9995300000001],
+            [33.91871000000015, 66.75961000000001], [34.94391000000007, 64.41437000000019],
+            [44.53226000000001, 66.75634000000014], [43.45282000000003, 68.57078999999999],
+            [46.250000000000114, 68.25], [46.34915000000012, 66.6676700000001],
+            [53.71743000000015, 68.85738000000015], [58.802000000000135, 68.88081999999997],
+            [60.55000000000001, 69.85000000000002], [68.51216000000016, 68.09233000000012],
+            [66.69466000000006, 71.02897000000019], [69.94, 73.04000000000008],
+            [73.66787, 68.40789999999998], [71.28000000000009, 66.3200000000001],
+            [75.05200000000008, 67.76047000000011], [73.10109999999997, 71.4471700000002],
+            [79.6520200000001, 72.32011], [80.51109000000002, 73.64819999999997],
+            [86.82230000000015, 73.93688000000003], [87.16682000000014, 75.11643000000004],
+            [93.23421000000008, 76.04720000000009], [100.75967000000014, 76.43028000000004],
+            [101.9908400000001, 77.28754000000015], [111.0772600000002, 76.71000000000004],
+            [113.88539000000003, 75.32779000000016], [109.40000000000003, 74.18000000000006],
+            [123.20066000000008, 72.97122000000007], [123.25777000000016, 73.73503000000005],
+            [128.59126000000003, 73.0387100000001], [131.28858000000025, 70.78699000000012],
+            [132.25350000000014, 71.83630000000011], [139.8698300000001, 71.48783000000014],
+            [140.46817, 72.84941000000015], [149.5, 72.20000000000005],
+            [152.9689000000002, 70.84222000000005], [158.99779, 70.86671999999999],
+            [160.9405300000003, 69.4372800000001], [170.4534500000002, 70.09703000000007],
+            [180.0, 68.96363636363651], [180.0, 64.97970870219848],
+            [177.41128000000003, 64.60821000000004], [179.37033999999994, 62.98262000000011],
+            [173.68013000000008, 61.652610000000095], [170.33085000000028, 59.881770000000074],
+            [168.90045999999995, 60.57355000000007], [163.53929000000005, 59.86871000000002],
+            [162.1174900000001, 54.855140000000006], [160.36877000000027, 54.34433000000007],
+            [156.78979000000027, 51.01105000000007], [155.43366000000003, 55.38103000000012],
+            [158.3643300000001, 58.055750000000046], [163.66968999999995, 61.1409000000001],
+            [164.47355000000005, 62.550610000000006], [160.12148000000002, 60.544230000000084],
+            [156.72068000000002, 61.434420000000046], [154.21806000000026, 59.75818000000015],
+            [142.1978200000001, 59.03998000000013], [135.12618999999995, 54.72959000000009],
+            [141.34531000000004, 53.08957000000015], [140.0619300000002, 48.44671000000011],
+            [134.86939000000018, 43.39821000000006], [130.93587000000014, 42.552740000000085],
+            [131.02519000000018, 44.96796000000006]
+        ],
+        [
+            [121.00308475147017, 53.25140106873119], [117.8792444194264, 49.510983384796965],
+            [114.36245649623527, 50.24830272073741], [110.66201053267878, 49.13012807880585]
+        ],
+        [[92.23471154171968, 50.80217072204172], [87.35997033076265, 49.21498078062912]],
+        [
+            [87.35997033076265, 49.21498078062912], [83.38300377801238, 51.069182847693924],
+            [80.03555952344169, 50.86475088154725], [76.52517947785475, 54.17700348572714],
+            [73.42567874542044, 53.489810289109755], [69.06816694527288, 55.38525014914353],
+            [61.43660000000017, 54.00625000000002], [59.642282342370606, 50.545442206415714],
+            [50.76664839051216, 51.6927623561599]
+        ],
+        [
+            [50.76664839051216, 51.6927623561599], [47.54948042174931, 50.454698391311126],
+            [46.46644575377627, 48.39415233010493], [49.10116000000011, 46.399330000000134]
+        ],
+        [
+            [93.77766000000001, 81.0246], [95.94089500000001, 81.2504], [100.186655, 79.780135],
+            [97.75794, 78.75619999999999], [91.18107000000002, 80.34146000000001],
+            [93.77766000000001, 81.0246]
+        ],
+        [
+            [102.837815, 79.28129], [105.07547000000002, 78.30689], [99.43814, 77.921],
+            [102.837815, 79.28129]
+        ],
+        [
+            [138.831075, 76.13676000000001], [145.086285, 75.562625], [138.95544, 74.61148],
+            [138.831075, 76.13676000000001]
+        ],
+        [[148.22223, 75.345845], [148.22223, 75.345845]],
+        [[139.86312, 73.36983000000001], [139.86312, 73.36983000000001]],
+        [
+            [44.84695804218114, 80.58980988231714], [51.522932977103665, 80.69972565380193],
+            [47.58611901224418, 80.01018117951533], [44.84695804218114, 80.58980988231714]
+        ],
+        [[22.731098667092652, 54.327536932993326], [22.731098667092652, 54.327536932993326]],
+        [
+            [53.50828982932515, 73.7498139513002], [55.631932814359686, 75.08141225859718],
+            [61.170044386647476, 76.25188345000812], [68.1570597675348, 76.93969676381293],
+            [68.1805725442276, 76.23364166940907], [61.58350752141476, 75.26088450794684],
+            [55.419335971910925, 72.37126760526603], [57.535692579992315, 70.72046397570212],
+            [51.601894565645665, 71.47475901965045], [53.50828982932515, 73.7498139513002]
+        ],
+        [
+            [142.91461551327654, 53.704577541714784], [144.6541475770856, 48.97639069273754],
+            [142.09203006405454, 45.966755276058834], [141.6825460145737, 53.301966457728795],
+            [142.91461551327654, 53.704577541714784]
+        ],
+        [
+            [-174.92825000000002, 67.20589000000001], [-169.89958000000001, 65.97724],
+            [-173.89184, 64.2826], [-179.88377, 65.87456], [-180.0, 68.96363636363635],
+            [-174.92825000000002, 67.20589000000001]
+        ],
+        [[-178.69378000000003, 70.89302], [-178.69378000000003, 70.89302]],
+        [
+            [33.435988094713366, 45.971917370797485], [36.334712762199274, 45.11321564389402],
+            [33.882511020652885, 44.361478583344194], [33.435988094713366, 45.971917370797485]
+        ],
+        [[-78.98, 26.790000000000003], [-78.98, 26.790000000000003]],
+        [[-77.79, 27.040000000000003], [-77.79, 27.040000000000003]],
+        [[-78.19087, 25.210300000000004], [-78.19087, 25.210300000000004]],
+        [[-61.2, -51.85], [-61.2, -51.85]],
+        [
+            [15.142820000000002, 79.67431], [21.54383, 78.95611], [17.1182, 76.80941],
+            [10.44453, 79.65239], [15.142820000000002, 79.67431]
+        ],
+        [[31.101042202597625, 69.55810108805622], [26.179622023226244, 69.82529897732614]],
+        [
+            [26.179622023226244, 69.82529897732614], [24.735679152126725, 68.64955678982146],
+            [21.244936150810673, 69.37044302029308], [16.768878614985482, 68.0139366726314]
+        ],
+        [
+            [11.027368605196868, 58.85614940045936], [5.665835402050419, 58.5881554225937],
+            [4.992078077828978, 61.97099803328432], [10.527709181366758, 64.4860383164975],
+            [14.761145867581604, 67.81064158799516], [19.18402835457846, 69.81744415961778],
+            [28.165547316202943, 71.18547435168055], [31.101042202597625, 69.55810108805622]
+        ],
+        [
+            [27.407505730913446, 80.05640574820042], [20.075188429451828, 79.56682322866722],
+            [17.368015170977458, 80.31889618602698], [22.91925255706738, 80.65714427359343],
+            [27.407505730913446, 80.05640574820042]
+        ],
+        [[24.724120000000003, 77.85385], [24.724120000000003, 77.85385]],
+        [
+            [0.0, 82.62796000000105], [0.0, 83.22516000000121], [-39.89753, 83.18018],
+            [-35.08787, 83.64513000000001], [-27.10046, 83.51966], [-20.84539, 82.72668999999999],
+            [-31.900000000000002, 82.2], [-23.169610000000002, 81.15271],
+            [-15.768180000000001, 81.91245], [-12.20855, 81.29154], [-17.73035, 80.12912],
+            [-19.70499, 78.75128000000001], [-18.47285, 76.98565], [-19.37281, 74.29561000000001],
+            [-24.278340000000004, 72.59788], [-21.753560000000004, 70.66369],
+            [-25.543409999999998, 71.43093999999999], [-26.36276, 70.22646],
+            [-22.349020000000003, 70.12946000000001], [-27.74737, 68.47046],
+            [-31.77665, 68.12078000000001], [-34.20196, 66.67974], [-39.81222, 65.45848],
+            [-42.819379999999995, 62.68233], [-43.3784, 60.09772],
+            [-48.26294000000001, 60.858430000000006], [-51.63325, 63.62691], [-53.96911, 67.18899],
+            [-50.87122, 69.9291], [-53.456289999999996, 69.283625], [-55.83468, 71.65444000000001],
+            [-54.71819000000001, 72.58625], [-58.58516, 75.51727], [-61.26861, 76.10238000000001],
+            [-68.50438, 76.06141000000001], [-73.15938, 78.43271], [-65.7107, 79.39436],
+            [-68.02298, 80.11721], [-57.207440000000005, 82.19074], [-46.76379, 82.62796]
+        ],
+        [[68.935, -48.62500000000001], [68.935, -48.62500000000001]],
+        [[124.96868248911623, -8.892790215697083], [124.96868248911623, -8.892790215697083]],
+        [
+            [0.0, -28.576705010697736], [0.0, -28.08216155366503],
+            [19.894734327888614, -28.461104831660776]
+        ],
+        [[19.894734327888614, -28.461104831660776], [23.312096795350186, -25.26868987396572]],
+        [[29.43218834810904, -22.091312758067588], [31.19140913262129, -22.2515096981724]],
+        [
+            [31.19140913262129, -22.2515096981724], [31.28277306491333, -27.285879408478998],
+            [32.46213260267845, -28.301011244420557], [28.2197558936771, -32.771952813448856],
+            [25.780628289500697, -33.94464609144834], [19.61640506356457, -34.81916635512371],
+            [16.344976840895242, -28.5767050106977]
+        ],
+        [[28.978262566857243, -28.95559661226171], [28.978262566857243, -28.95559661226171]],
+        [
+            [0.0, 32.535340000000076], [0.0, 32.61238999999995],
+            [-114.72138999999993, 32.72082999999992], [-111.02361000000002, 31.334719999999948]
+        ],
+        [
+            [-111.02361000000002, 31.334719999999948], [-106.50758999999988, 31.754520000000014],
+            [-103.11000000000001, 28.970000000000027], [-100.95759999999996, 29.380710000000136],
+            [-99.01999999999992, 26.37000000000006]
+        ],
+        [
+            [-99.01999999999992, 26.37000000000006], [-97.14000830767071, 25.8699974634784],
+            [-97.87236670611111, 22.44421173755336], [-94.42572953975622, 18.144370835843347],
+            [-90.77186987991087, 19.28412038825678], [-90.2786183336849, 20.999855454995554],
+            [-87.05189022494807, 21.5435431991383], [-87.83719112827151, 18.25981598558343],
+            [-91.00151994501596, 17.81759491624571], [-92.22775000686983, 14.538828640190928]
+        ],
+        [
+            [-92.22775000686983, 14.538828640190928], [-94.69165646033014, 16.200975246642884],
+            [-96.55743404822829, 15.653515122942792], [-103.50098954955808, 18.29229462327885],
+            [-105.73139604370766, 20.434101874264115], [-106.02871639689897, 22.773752346278627],
+            [-112.2282346260904, 28.95440867768349], [-113.14866939985717, 31.170965887978923],
+            [-114.67389929895177, 30.162681179315996], [-109.40910437705571, 23.36467234953625],
+            [-114.46574662968004, 27.142090358991368], [-117.12775999999985, 32.53533999999996]
+        ],
+        [
+            [-53.209588995971544, -32.727666110974724], [-54.93586605489773, -34.952646579733624],
+            [-58.42707414410439, -33.909454441057576], [-57.62513342958296, -30.21629485445426]
+        ],
+        [
+            [0.0, -33.76837778090129], [0.0, -33.20200408298268],
+            [-53.209588995971544, -32.727666110974724]
+        ],
+        [[-53.209588995971544, -32.727666110974724], [-57.62513342958296, -30.21629485445426]],
+        [[-57.62513342958296, -30.21629485445426], [-53.373661668498244, -33.768377780900764]],
+        [
+            [-69.52967810736496, -10.951734307502194], [-65.33843522811642, -9.761987806846392],
+            [-65.40228146021303, -11.566270440317155], [-60.503304002511136, -13.775954685117659],
+            [-60.158389655179036, -16.258283786690086], [-58.24121985536668, -16.299573256091293],
+            [-57.85380164247451, -19.96999521248619], [-61.78632646345377, -19.633736667562964]
+        ],
+        [[-62.685057135657885, -22.249029229422387], [-66.27333940292485, -21.83231047942072]],
+        [
+            [-66.27333940292485, -21.83231047942072], [-67.82817989772273, -22.872918796482175],
+            [-69.59042375352405, -17.580011895419332]
+        ],
+        [[-69.59042375352405, -17.580011895419332], [-68.66507971868963, -12.561300144097173]],
+        [[-68.66507971868963, -12.561300144097173], [-69.52967810736496, -10.951734307502194]],
+        [
+            [0.0, -4.298186944194377], [-70.92884334988358, -4.401591485210368],
+            [-73.98723548042966, -7.523829847853065], [-72.18489071316985, -10.053597914269432],
+            [-70.48189388699117, -9.490118096558845], [-68.66507971868963, -12.561300144097173]
+        ],
+        [
+            [-68.66507971868963, -12.561300144097173], [-68.9596353827533, -16.50069793057127],
+            [-70.37257239447771, -18.34797535570887], [-76.00920508492995, -14.649286390850321],
+            [-81.41094255239946, -4.7367648250554595], [-79.20528906931773, -4.959128513207389]
+        ],
+        [
+            [-75.54499569365204, -1.5616097957458803], [-75.10662451852008, -0.05720549886486026],
+            [-73.07039221870724, -2.3089543595509525], [-70.81347571479196, -2.2568645158007428],
+            [-69.89363521999663, -4.2981869441943275]
+        ],
+        [
+            [0.0, 1.2533605004893413], [0.0, 1.130112209473273],
+            [-69.81697323269162, 1.7148052026396243], [-69.89363521999663, -4.2981869441943275]
+        ],
+        [[-69.89363521999663, -4.2981869441943275], [-66.87632585312258, 1.253360500489336]],
+        [
+            [-77.35336076527386, 8.67050466555807], [-80.00368994822716, 7.547524115423372],
+            [-82.96578304719736, 8.225027980985985]
+        ],
+        [
+            [-82.96578304719736, 8.225027980985985], [-79.57330278188431, 9.611610012241528],
+            [-77.35336076527386, 8.67050466555807]
+        ],
+        [[-82.54619625520348, 9.566134751824677], [-82.96578304719736, 8.225027980985985]],
+        [
+            [-82.96578304719736, 8.225027980985985], [-85.5618519762442, 11.217119248901597],
+            [-82.54619625520348, 9.566134751824677]
+        ],
+        [
+            [-83.65561174186158, 10.938764146361422], [-87.66849341505471, 12.909909979702633],
+            [-83.14721900097413, 14.99582916916411]
+        ],
+        [[-83.14721900097413, 14.99582916916411], [-83.65561174186158, 10.938764146361422]],
+        [
+            [-83.14721900097413, 14.99582916916411], [-87.31665442579549, 12.984685777228975],
+            [-89.35332597528281, 14.424132798719086]
+        ],
+        [[-89.35332597528281, 14.424132798719086], [-88.22502275262202, 15.727722479713904]],
+        [[-88.22502275262202, 15.727722479713904], [-83.14721900097413, 14.99582916916411]],
+        [[-89.35332597528281, 14.424132798719086], [-89.35332597528281, 14.424132798719086]],
+        [
+            [-92.22775000686983, 14.538828640190928], [-91.45392127151516, 17.252177232324172],
+            [-89.14308041050333, 17.808318996649405]
+        ],
+        [[-89.14308041050333, 17.808318996649405], [-88.22502275262202, 15.727722479713904]],
+        [
+            [-88.22502275262202, 15.727722479713904], [-90.09555457229098, 13.735337632700734],
+            [-92.22775000686983, 14.538828640190928]
+        ],
+        [[-89.14308041050333, 17.808318996649405], [-89.14308041050333, 17.808318996649405]],
+        [
+            [0.0, 5.200277207861937], [0.0, 4.918098049332194],
+            [-60.96689327660154, 4.536467596856639], [-64.62865943058755, 4.14848094320925],
+            [-64.19930579289051, 1.49285492594602], [-66.32576514348496, 0.7244522159820121],
+            [-67.8099381171237, 2.820655015469569], [-67.34143958196557, 6.095468044454023],
+            [-71.96017574734864, 6.991614895043539], [-72.9052860175347, 10.450344346554772],
+            [-68.88299923366445, 11.443384507691563], [-68.19412655299763, 10.554653225135922],
+            [-61.880946010980196, 10.715625311725104], [-59.758284878159195, 8.367034816924047]
+        ],
+        [[-59.758284878159195, 8.367034816924047], [-60.73357418480372, 5.200277207861901]],
+        [
+            [-56.539385748914555, 1.8995226098669207], [-59.03086157900265, 1.3176976586927225],
+            [-59.980958624904886, 5.014061184098139], [-61.410302903881956, 5.959068101419618],
+            [-59.758284878159195, 8.367034816924047]
+        ],
+        [[-59.758284878159195, 8.367034816924047], [-57.14743648947689, 5.973149929219161]],
+        [[-54.524754197799716, 2.3118488631237852], [-56.539385748914555, 1.8995226098669207]],
+        [
+            [-56.539385748914555, 1.8995226098669207], [-58.04469438336068, 4.0608635522583825],
+            [-57.14743648947689, 5.973149929219161]
+        ],
+        [[-57.14743648947689, 5.973149929219161], [-53.9580446030709, 5.756548163267765]],
+        [[-51.65779741067889, 4.156232408053029], [-54.524754197799716, 2.3118488631237852]],
+        [[-54.524754197799716, 2.3118488631237852], [-53.9580446030709, 5.756548163267765]],
+        [[-53.9580446030709, 5.756548163267765], [-51.65779741067889, 4.156232408053029]],
+        [
+            [6.186320428094177, 49.463802802114515], [8.099278598674744, 49.01778351500333],
+            [6.037388950229001, 46.725778713561866], [7.435184767291872, 43.69384491634922],
+            [1.8267932470871528, 42.34338471126569]
+        ],
+        [
+            [1.8267932470871528, 42.34338471126569], [-1.502770961910528, 43.03401439063043],
+            [-1.1937975732374184, 46.01491771095486], [-4.592349819344776, 48.68416046812699],
+            [-1.6165107893849608, 48.64442129169454], [2.5135730322461427, 51.14850617126183]
+        ],
+        [[2.5135730322461427, 51.14850617126183], [6.186320428094177, 49.463802802114515]],
+        [[8.746009148807559, 42.62812185319392], [8.746009148807559, 42.62812185319392]],
+        [[-75.37322323271385, -0.1520317521204504], [-75.54499569365204, -1.5616097957458803]],
+        [[-75.54499569365204, -1.5616097957458803], [-79.20528906931773, -4.959128513207389]],
+        [
+            [-79.20528906931773, -4.959128513207389], [-80.96776546906436, -2.246942640800704],
+            [-78.85525875518871, 1.380923773601822], [-75.37322323271385, -0.1520317521204504]
+        ],
+        [[-66.28243445500821, 18.514761664295364], [-66.28243445500821, 18.514761664295364]],
+        [[-77.56960079619921, 18.490525417550487], [-77.56960079619921, 18.490525417550487]],
+        [
+            [-82.26815121125706, 23.188610744717707], [-78.34743445505649, 22.512166246017088],
+            [-74.17802486845126, 20.28462779385974], [-77.75548092315307, 19.855480861891877],
+            [-78.71986650258401, 21.598113511638434], [-82.26815121125706, 23.188610744717707]
+        ],
+        [
+            [31.19140913262129, -22.2515096981724], [28.021370070108617, -21.485975030200585],
+            [25.264225701608012, -17.736539808831417]
+        ],
+        [[25.264225701608012, -17.736539808831417], [27.044427117630732, -17.938026218337434]],
+        [
+            [27.044427117630732, -17.938026218337434], [29.516834344203147, -15.644677829656388],
+            [32.847638787575846, -16.713398125884616], [32.772707960752626, -19.715592136313298],
+            [31.19140913262129, -22.2515096981724]
+        ],
+        [
+            [29.43218834810904, -22.091312758067588], [25.66466637543772, -25.486816094669713],
+            [23.312096795350186, -25.26868987396572]
+        ],
+        [
+            [23.312096795350186, -25.26868987396572], [20.88960900237174, -26.828542982695915],
+            [19.895767856534434, -24.76779021576059]
+        ],
+        [[20.910641310314535, -18.252218926672022], [25.264225701608012, -17.736539808831417]],
+        [[25.264225701608012, -17.736539808831417], [29.43218834810904, -22.091312758067588]],
+        [[19.895767856534434, -24.76779021576059], [19.894734327888614, -28.461104831660776]],
+        [
+            [19.894734327888614, -28.461104831660776], [18.464899122804752, -29.04546192801728],
+            [15.21047244635946, -27.090955905874047], [14.257714064194175, -22.111208184499958],
+            [11.734198846085121, -17.301889336824473]
+        ],
+        [
+            [11.734198846085121, -17.301889336824473], [18.263309360434164, -17.309950860262006],
+            [20.910641310314535, -18.252218926672022]
+        ],
+        [[20.910641310314535, -18.252218926672022], [19.895767856534434, -24.76779021576059]],
+        [
+            [-16.71372880702347, 13.594958604379855], [-17.62504269049066, 14.729540513564073],
+            [-14.577347581428981, 16.59826365810281], [-11.51394283695059, 12.442987575729418]
+        ],
+        [[-11.51394283695059, 12.442987575729418], [-16.71372880702347, 13.594958604379855]],
+        [
+            [0.0, 12.442987575729532], [-4.427166103523803, 12.542645575404295],
+            [-5.404341599946974, 10.370736802609146]
+        ],
+        [[-5.404341599946974, 10.370736802609146], [-8.029943610048619, 10.206534939001713]],
+        [[-8.029943610048619, 10.206534939001713], [-9.127473517279583, 12.308060411015333]],
+        [[-9.127473517279583, 12.308060411015333], [-11.51394283695059, 12.442987575729418]],
+        [[-17.06342322434257, 20.999752102130827], [-12.929101935263532, 21.327070624267563]],
+        [[-12.929101935263532, 21.327070624267563], [-11.96941891117116, 25.933352769468268]],
+        [
+            [-11.96941891117116, 25.933352769468268], [-6.453786586930335, 24.956590684503425],
+            [-5.537744309908447, 15.501689764869257], [-11.666078253617854, 15.388208319556298],
+            [-16.463098110407884, 16.13503611903846], [-17.06342322434257, 20.999752102130827]
+        ],
+        [[2.6917016943562544, 6.258817246928629], [1.8652405127123188, 6.142157701029731]],
+        [[0.8995630224740694, 10.99733938236426], [3.611180454125559, 11.660167141155968]],
+        [[3.611180454125559, 11.660167141155968], [2.6917016943562544, 6.258817246928629]],
+        [
+            [14.851300000000037, 22.862950000000126], [15.903246697664315, 20.387618923417506],
+            [15.247731154041844, 16.627305813050782]
+        ],
+        [[15.247731154041844, 16.627305813050782], [13.318701613018561, 13.556356309457826]],
+        [[4.368343540066007, 13.747481594289411], [3.611180454125559, 11.660167141155968]],
+        [
+            [3.611180454125559, 11.660167141155968], [1.0241032242974768, 12.851825669806574],
+            [0.3748922054146817, 14.92890818934613]
+        ],
+        [
+            [0.3748922054146817, 14.92890818934613], [3.6382589046464773, 15.568119818580456],
+            [4.267419467800039, 19.155265204337], [11.999505649471613, 23.47166840259645]
+        ],
+        [[11.999505649471613, 23.47166840259645], [14.851300000000037, 22.862950000000126]],
+        [[2.6917016943562544, 6.258817246928629], [4.368343540066007, 13.747481594289411]],
+        [
+            [4.368343540066007, 13.747481594289411], [9.014933302454438, 12.826659247280418],
+            [13.318701613018561, 13.556356309457826]
+        ],
+        [
+            [13.318701613018561, 13.556356309457826], [14.577177768622533, 12.085360826053503],
+            [11.74577436691851, 6.981382961449754]
+        ],
+        [
+            [11.74577436691851, 6.981382961449754], [8.500287713259695, 4.7719829370268485],
+            [5.898172641634687, 4.262453314628985], [2.6917016943562544, 6.258817246928629]
+        ],
+        [[14.495787387762846, 12.85939626713733], [15.467872755605242, 9.982336737503545]],
+        [[15.467872755605242, 9.982336737503545], [14.47837243008047, 4.732605495620447]],
+        [
+            [14.47837243008047, 4.732605495620447], [15.940918816805066, 1.7276726342802957],
+            [9.649158155972628, 2.2838660750377358]
+        ],
+        [
+            [9.649158155972628, 2.2838660750377358], [9.233162876023044, 6.444490668153335],
+            [11.74577436691851, 6.981382961449754]
+        ],
+        [[11.74577436691851, 6.981382961449754], [14.495787387762846, 12.85939626713733]],
+        [[0.8995630224740694, 10.99733938236426], [1.8652405127123188, 6.142157701029731]],
+        [
+            [1.8652405127123188, 6.142157701029731], [0.4909574723422451, 7.411744289576475],
+            [0.8995630224740694, 10.99733938236426]
+        ],
+        [
+            [0.023802524423700785, 11.018681748900804], [1.0601216976049272, 5.928837388528876],
+            [-1.9647065901675944, 4.710462144383371], [-3.244370083011262, 6.250471503113502],
+            [-2.9404093082704605, 10.962690334512558], [0.023802524423700785, 11.018681748900804]
+        ],
+        [
+            [-8.029943610048619, 10.206534939001713], [-2.8274963037127065, 9.642460842319778],
+            [-2.856125047202397, 4.994475816259509], [-7.7121593896697505, 4.364565944837722]
+        ],
+        [
+            [-7.7121593896697505, 4.364565944837722], [-8.60288021486862, 6.4675641951716605],
+            [-8.029943610048619, 10.206534939001713]
+        ],
+        [[0.0, 12.58618296961042], [-9.127473517279583, 12.308060411015333]],
+        [
+            [-9.127473517279583, 12.308060411015333], [-7.832100389019188, 8.575704250518626],
+            [-8.926064622422004, 7.309037380396376], [-11.11748124840733, 10.045872911006285]
+        ],
+        [[-13.246550258832515, 8.903048610871508], [-15.130311245168173, 11.040411688679526]],
+        [[-16.677451951554573, 12.384851589401052], [-13.700476040084325, 12.586182969610194]],
+        [[-13.700476040084325, 12.586182969610194], [-15.130311245168173, 11.040411688679526]],
+        [[-15.130311245168173, 11.040411688679526], [-16.677451951554573, 12.384851589401052]],
+        [[-8.439298468448698, 7.686042792181738], [-7.7121593896697505, 4.364565944837722]],
+        [[-7.7121593896697505, 4.364565944837722], [-11.438779466182055, 6.7859168563057475]],
+        [[-11.438779466182055, 6.7859168563057475], [-8.439298468448698, 7.686042792181738]],
+        [[-13.246550258832515, 8.903048610871508], [-11.11748124840733, 10.045872911006285]],
+        [[-11.11748124840733, 10.045872911006285], [-11.438779466182055, 6.7859168563057475]],
+        [[-11.438779466182055, 6.7859168563057475], [-13.246550258832515, 8.903048610871508]],
+        [
+            [-5.404341599946974, 10.370736802609146], [-4.006390753587226, 13.472485459848116],
+            [0.3748922054146817, 14.92890818934613]
+        ],
+        [
+            [0.3748922054146817, 14.92890818934613], [2.1544735042499212, 11.940150051313339],
+            [0.8995630224740694, 10.99733938236426]
+        ],
+        [[0.8995630224740694, 10.99733938236426], [-5.404341599946974, 10.370736802609146]],
+        [[27.37422610851749, 5.233944403500061], [22.405123732195538, 4.029160061047321]],
+        [
+            [22.405123732195538, 4.029160061047321], [19.46778364429315, 5.03152781821278],
+            [16.012852410555354, 2.267639675298085], [14.47837243008047, 4.732605495620447]
+        ],
+        [[14.47837243008047, 4.732605495620447], [15.279460483469109, 7.421924546737969]],
+        [
+            [15.279460483469109, 7.421924546737969], [17.964929640380888, 7.890914008002994],
+            [22.864165480244225, 11.142395127807546]
+        ],
+        [
+            [22.864165480244225, 11.142395127807546], [23.459012892355986, 8.954285793488893],
+            [27.37422610851749, 5.233944403500061]
+        ],
+        [[18.45306521980993, 3.5043858911233485], [17.523716261472856, -0.743830254726987]],
+        [[17.523716261472856, -0.743830254726987], [14.582603794013181, -4.97023894615014]],
+        [[14.582603794013181, -4.97023894615014], [11.093772820691925, -3.978826592630547]],
+        [[14.276265903386957, 1.1969298364266194], [18.45306521980993, 3.5043858911233485]],
+        [[11.276449008843713, 2.261050930180872], [14.276265903386957, 1.1969298364266194]],
+        [
+            [14.276265903386957, 1.1969298364266194], [13.99240726080771, -2.4708049454890997],
+            [11.093772820691925, -3.978826592630547]
+        ],
+        [
+            [11.093772820691925, -3.978826592630547], [8.79799563969317, -1.111301364754496],
+            [11.276449008843713, 2.261050930180872]
+        ],
+        [[9.649158155972628, 2.2838660750377358], [9.649158155972628, 2.2838660750377358]],
+        [
+            [30.740009731422095, -8.34000593035372], [33.48568769708359, -10.525558770391115],
+            [33.214024692525214, -13.971860039936153], [30.17948123548183, -14.796099134991529],
+            [27.044427117630732, -17.938026218337434]
+        ],
+        [[27.044427117630732, -17.938026218337434], [23.215048455506064, -17.523116143465984]],
+        [
+            [21.887842644953874, -16.08031015387688], [21.933886346125917, -12.898437188369359],
+            [24.016136508894675, -12.911046237848574], [23.912215203555718, -10.926826267137514],
+            [28.372253045370428, -11.793646742401393], [28.734866570762502, -8.526559340044578],
+            [30.740009731422095, -8.34000593035372]
+        ],
+        [
+            [32.75937544122132, -9.23059905358906], [34.55998904799935, -13.579997653866876],
+            [32.68816531752313, -13.712857761289277], [32.75937544122132, -9.23059905358906]
+        ],
+        [
+            [0.0, -11.52002003341606], [36.51408165868426, -11.720938002166735],
+            [34.55998904799935, -11.520020033415925]
+        ],
+        [[32.07166548028107, -26.73382008230491], [32.07166548028107, -26.73382008230491]],
+        [[12.995517205465177, -4.781103203961884], [12.995517205465177, -4.781103203961884]],
+        [
+            [0.0, -6.10009246177966], [16.326528354567046, -5.877470391466268],
+            [17.472970004962235, -8.0685511206417], [21.7281107927397, -7.290872491081302],
+            [21.887842644953874, -16.08031015387688]
+        ],
+        [[21.887842644953874, -16.08031015387688], [23.215048455506064, -17.523116143465984]],
+        [[23.215048455506064, -17.523116143465984], [11.734198846085121, -17.301889336824473]],
+        [
+            [11.734198846085121, -17.301889336824473], [13.6337211442698, -12.03864470789717],
+            [12.32243167486351, -6.10009246177966]
+        ],
+        [[30.469673645761223, -2.41385475710134], [30.469673645761223, -2.41385475710134]],
+        [[35.71991824722275, 32.709192409794866], [35.71991824722275, 32.709192409794866]],
+        [[35.82110070165024, 33.2774264592763], [35.82110070165024, 33.2774264592763]],
+        [
+            [49.54351891459575, -12.469832858940554], [50.47653689962553, -15.226512139550543],
+            [47.095761346226595, -24.941629733990453], [44.03972049334976, -24.988345228782308],
+            [43.254187046081, -22.057413018484123], [44.37432539243966, -20.07236622485639],
+            [44.4465173683514, -16.216219170804507], [46.31224327981721, -15.780018405828798],
+            [49.54351891459575, -12.469832858940554]
+        ],
+        [[35.397560662586045, 31.489086005167582], [35.397560662586045, 31.489086005167582]],
+        [[-16.71372880702347, 13.594958604379855], [-16.71372880702347, 13.594958604379855]],
+        [[9.482139926805274, 30.307556057246188], [7.6126416357821824, 33.34411489514896]],
+        [
+            [8.420964389691676, 36.94642731378316], [10.600004510143094, 36.410000108377375],
+            [11.488787469131012, 33.13699575452324]
+        ],
+        [[11.488787469131012, 33.13699575452324], [9.482139926805274, 30.307556057246188]],
+        [[-8.684399786809053, 27.395744126896005], [-8.674116176782974, 28.84128896739658]],
+        [
+            [-2.169913702798624, 35.16839630791668], [1.466918572606545, 36.605647081034405],
+            [8.420964389691676, 36.94642731378316]
+        ],
+        [[8.420964389691676, 36.94642731378316], [7.6126416357821824, 33.34411489514896]],
+        [
+            [7.6126416357821824, 33.34411489514896], [9.859997999723447, 28.959989732371014],
+            [9.319410841518163, 26.094324856057455]
+        ],
+        [[9.319410841518163, 26.094324856057455], [11.999505649471613, 23.47166840259645]],
+        [
+            [11.999505649471613, 23.47166840259645], [5.677565952180686, 19.601206976799716],
+            [3.1466610042539003, 19.693578599521445], [-8.684399786809053, 27.395744126896005]
+        ],
+        [
+            [35.54566531753454, 32.393992011030576], [38.792340529136084, 33.378686428352225],
+            [37.998848911294374, 30.508499864213135], [34.95603722508426, 29.356554673778845]
+        ],
+        [[34.95603722508426, 29.356554673778845], [35.54566531753454, 32.393992011030576]],
+        [
+            [51.57951867046327, 24.245497137951105], [54.00800092958758, 24.121757920828216],
+            [56.07082075381456, 26.05546417897398], [55.006803012924905, 22.496947536707136],
+            [51.57951867046327, 24.245497137951105]
+        ],
+        [[50.81010827006958, 24.754742539971378], [50.81010827006958, 24.754742539971378]],
+        [[47.974519077349896, 29.975819200148504], [47.974519077349896, 29.975819200148504]],
+        [
+            [39.19546837744497, 32.16100881604267], [41.289707472505455, 36.35881460219227],
+            [44.77267710159504, 37.17043692561684]
+        ],
+        [[44.77267710159504, 37.17043692561684], [45.41669070819904, 33.967797756479584]],
+        [[45.41669070819904, 33.967797756479584], [48.567971225789755, 29.926778265903522]],
+        [[48.567971225789755, 29.926778265903522], [44.70949873228474, 29.178891099559383]],
+        [
+            [55.208341098863194, 22.708329982997046], [55.88623253766801, 24.920830593357447],
+            [59.806148309168066, 22.310524807214193], [57.788700392493325, 19.067570298737678],
+            [53.10857262554751, 16.651051133688952]
+        ],
+        [[52.00000980002224, 19.000003363516058], [54.99998172386236, 19.999994004796108]],
+        [[54.99998172386236, 19.999994004796108], [55.208341098863194, 22.708329982997046]],
+        [[56.261041701080956, 25.71460643157677], [56.261041701080956, 25.71460643157677]],
+        [[167.2168013857696, -15.89184620530842], [167.2168013857696, -15.89184620530842]],
+        [[166.79315799384085, -15.668810723536687], [166.79315799384085, -15.668810723536687]],
+        [
+            [102.5849324890267, 12.186594956913282], [104.28141808473661, 14.416743068901367],
+            [107.38272749230109, 14.202440904186972]
+        ],
+        [
+            [107.38272749230109, 14.202440904186972], [106.24967003786946, 10.961811835163587],
+            [103.4972799011397, 10.632555446815928], [102.5849324890267, 12.186594956913282]
+        ],
+        [
+            [0.0, 14.273211778211063], [6.9346496091588e-310, 14.416743068901326],
+            [102.98842207236163, 14.225721136934467], [98.1920740091914, 15.123702500870351],
+            [97.37589643757354, 18.445437730375815], [100.11598758341785, 20.417849636308187]
+        ],
+        [[103.9564766784853, 18.24095408779688], [105.21877689007889, 14.273211778210694]],
+        [[107.38272749230109, 14.202440904186972], [103.9564766784853, 18.24095408779688]],
+        [
+            [103.9564766784853, 18.24095408779688], [101.05954756063517, 17.51249725999449],
+            [100.11598758341785, 20.417849636308187]
+        ],
+        [[100.11598758341785, 20.417849636308187], [102.17043582561358, 22.464753119389304]],
+        [[107.5645251811039, 15.20217316330556], [107.38272749230109, 14.202440904186972]],
+        [
+            [0.0, 20.417849636308205], [0.0, 20.18659760180239],
+            [98.95967573445488, 19.752980658440947], [93.07827762245219, 19.855144965081976],
+            [92.30323449093868, 21.47548533780982], [95.12476769407496, 26.5735720891323],
+            [98.68269005737046, 27.50881216075062], [97.60471967976198, 23.897404690033042],
+            [101.18000532430754, 21.436572984294028], [100.11598758341785, 20.417849636308187]
+        ],
+        [
+            [104.33433475140347, 10.48654368737523], [107.49140302941089, 12.337205918827948],
+            [107.5645251811039, 15.20217316330556]
+        ],
+        [
+            [107.5645251811039, 15.20217316330556], [103.89653201702671, 19.265180975821806],
+            [102.17043582561358, 22.464753119389304]
+        ],
+        [[102.17043582561358, 22.464753119389304], [105.32920942588663, 23.352063300056912]],
+        [
+            [108.05018029178294, 21.55237986906012], [105.66200564984631, 19.05816518806057],
+            [108.87710656131748, 15.27669057867044], [109.20013593957398, 11.666859239137764],
+            [105.15826378786511, 8.599759629750494], [104.33433475140347, 10.48654368737523]
+        ],
+        [[130.78000366004676, 42.220007813203225], [130.78000366004676, 42.220007813203225]],
+        [
+            [130.63999970690955, 42.39502427522179], [127.53343550019417, 39.7568500839767],
+            [128.34971642467661, 38.61224294692785]
+        ],
+        [
+            [128.34971642467661, 38.61224294692785], [124.71216067921938, 38.10834605564979],
+            [124.26562462778531, 39.928493353834156], [126.86908328664987, 41.81656932226619]
+        ],
+        [[126.17475874237624, 37.74968577732804], [128.34971642467661, 38.61224294692785]],
+        [
+            [128.34971642467661, 38.61224294692785], [129.0913765809296, 35.082484239231434],
+            [126.48574751190876, 34.39004588473648], [126.17475874237624, 37.74968577732804]
+        ],
+        [
+            [0.0, 49.29719798440573], [0.0, 49.47052073831372],
+            [90.71366743364068, 50.33181183532109], [92.23471154171968, 50.80217072204172]
+        ],
+        [
+            [92.23471154171968, 50.80217072204172], [97.25976000000014, 49.72605000000004],
+            [98.86149051310034, 52.04736603454669], [103.67654544476022, 50.089966132195116],
+            [106.8888041524553, 50.27429596618032], [110.66201053267878, 49.13012807880585]
+        ],
+        [
+            [110.66201053267878, 49.13012807880585], [116.67880089728612, 49.888531399121405],
+            [115.74283735561579, 47.72654450132629]
+        ],
+        [
+            [0.0, 28.26158274994654], [0.0, 27.88253611908553],
+            [97.0519885599681, 27.69905894623315], [92.50311893104364, 27.89687632904645],
+            [96.11767866413103, 29.452802028922466], [97.32711388549004, 28.26158274994634]
+        ],
+        [
+            [92.67272098182556, 22.041238918541254], [89.03196129756623, 22.055708319582976],
+            [88.08442223506242, 24.501657212821925], [92.37620161333481, 24.976692816664965],
+            [92.67272098182556, 22.041238918541254]
+        ],
+        [[91.69665652869668, 27.771741848251665], [91.69665652869668, 27.771741848251665]],
+        [
+            [88.12044070836987, 27.876541652939594], [88.06023766474982, 26.41461538340249],
+            [85.25177859898338, 26.726198431906344], [80.08842451367627, 28.79447011974014],
+            [81.52580447787474, 30.42271698660863], [88.12044070836987, 27.876541652939594]
+        ],
+        [
+            [0.0, 35.4940095077888], [0.0, 34.65354401299345],
+            [75.75706098826834, 34.50492259372132], [71.11501875192164, 34.733125718722235],
+            [71.84629194528392, 36.50994232842986], [75.15802778514092, 37.13303091078912],
+            [77.83745079947457, 35.494009507787766]
+        ],
+        [[0.0, 37.36278432875923], [67.82999962755952, 37.144994004864685]],
+        [[67.82999962755952, 37.144994004864685], [66.51860680528867, 37.36278432875879]],
+        [[67.82999962755952, 37.144994004864685], [67.44221967964131, 39.140143541005486]],
+        [[67.44221967964131, 39.140143541005486], [73.6753792662548, 39.4312368841056]],
+        [
+            [73.6753792662548, 39.4312368841056], [74.98000247589542, 37.419990139305895],
+            [71.8446382994506, 36.73817129164692], [70.80682050973289, 38.486281643216415],
+            [67.82999962755952, 37.144994004864685]
+        ],
+        [
+            [70.96231489449914, 42.266154283205495], [74.21286583852256, 43.29833934180337],
+            [80.2599902688853, 42.34999929459906]
+        ],
+        [[80.2599902688853, 42.34999929459906], [73.6753792662548, 39.4312368841056]],
+        [
+            [73.6753792662548, 39.4312368841056], [69.46488691597753, 39.5266832545487],
+            [73.05541710804917, 40.866033026689465], [70.96231489449914, 42.266154283205495]
+        ],
+        [
+            [52.50245975119615, 41.78331553808637], [55.45525109235377, 41.25985911718584],
+            [58.62901085799146, 42.75155101172305]
+        ],
+        [
+            [58.62901085799146, 42.75155101172305], [66.54615034370022, 37.97468496352687],
+            [62.230651483005886, 35.270663967422294], [57.330433790928986, 38.02922943781094]
+        ],
+        [
+            [57.330433790928986, 38.02922943781094], [53.92159793479556, 37.19891836196126],
+            [52.50245975119615, 41.78331553808637]
+        ],
+        [
+            [0.0, 29.92677826590429], [0.0, 30.45245677339321],
+            [47.68528608581227, 30.984853217079632], [45.41669070819904, 33.967797756479584]
+        ],
+        [
+            [45.41669070819904, 33.967797756479584], [46.15178795755094, 35.09325877536429],
+            [44.10922529478234, 39.4281362981681], [47.685079380083096, 39.50836395930122],
+            [50.84235436381971, 36.8728142359834], [57.330433790928986, 38.02922943781094]
+        ],
+        [
+            [57.330433790928986, 38.02922943781094], [61.123070509694145, 36.491597194966246],
+            [60.87424848820879, 29.829238999952608], [63.31663170761959, 26.756532497661667],
+            [61.49736290878419, 25.0782370061185], [54.71508955263727, 26.480657863871514],
+            [48.567971225789755, 29.926778265903522]
+        ],
+        [
+            [35.71991824722275, 32.709192409794866], [37.06676110204583, 36.62303620050062],
+            [42.34959109881177, 37.2298725449041], [41.006158888519934, 34.41937226006212],
+            [36.834062127435544, 32.312937526980775], [35.71991824722275, 32.709192409794866]
+        ],
+        [
+            [46.50571984231797, 38.770605373686294], [43.65643639504094, 40.253563951166186],
+            [44.97248009621808, 41.248128567055595]
+        ],
+        [[44.97248009621808, 41.248128567055595], [46.50571984231797, 38.770605373686294]],
+        [
+            [11.027368605196868, 58.85614940045936], [12.631146681375185, 61.293571682370136],
+            [11.930569288794231, 63.12831757267698], [16.768878614985482, 68.0139366726314]
+        ],
+        [
+            [16.768878614985482, 68.0139366726314], [20.645592889089528, 69.10624726020087],
+            [23.53947309743444, 67.93600861273525]
+        ],
+        [
+            [23.53947309743444, 67.93600861273525], [23.903378533633802, 66.00692739527962],
+            [17.84777916837521, 62.74940013289681], [18.78772179533209, 60.081914374422595],
+            [15.879785597403783, 56.10430186626866], [12.942910597392057, 55.36173737245058],
+            [11.027368605196868, 58.85614940045936]
+        ],
+        [[28.17670942557794, 56.16912995057879], [30.87390913262001, 55.55097646750341]],
+        [
+            [30.87390913262001, 55.55097646750341], [32.69364301934604, 53.35142080343218],
+            [30.555117221811457, 51.31950348571566]
+        ],
+        [[23.52707075368437, 51.57845408793031], [23.48412763844985, 53.91249766704114]],
+        [[23.48412763844985, 53.91249766704114], [28.17670942557794, 56.16912995057879]],
+        [
+            [0.0, 52.10167756994059], [33.75269982273579, 52.3350745713318],
+            [35.356116163887975, 50.57719737405904]
+        ],
+        [[35.356116163887975, 50.57719737405904], [40.06904000000014, 49.60104999999999]],
+        [
+            [40.06904000000014, 49.60104999999999], [39.738277622238854, 47.89893707945197],
+            [34.73201738827845, 45.96566573176062], [30.024658644335375, 46.42393667254504],
+            [27.522537469195157, 48.467119452501116], [22.085608351334855, 48.42226430927179]
+        ],
+        [[22.085608351334855, 48.42226430927179], [23.52707075368437, 51.57845408793031]],
+        [[23.52707075368437, 51.57845408793031], [30.555117221811457, 51.31950348571566]],
+        [[30.555117221811457, 51.31950348571566], [31.78599244755525, 52.1016775699397]],
+        [
+            [23.48412763844985, 53.91249766704114], [24.029985792748903, 50.70540660257518],
+            [19.825022820726872, 49.21712535256923], [15.490972120839729, 50.78472992614321],
+            [14.119686313542559, 53.75702912049104]
+        ],
+        [
+            [14.119686313542559, 53.75702912049104], [17.622831658608675, 54.85153595643291],
+            [23.48412763844985, 53.91249766704114]
+        ],
+        [
+            [16.979666782304037, 48.123497015976305], [16.011663852612656, 46.6836107448117],
+            [11.048555942436536, 46.75135854754634], [13.595945672264437, 48.87717194273715],
+            [16.979666782304037, 48.123497015976305]
+        ],
+        [
+            [22.085608351334855, 48.42226430927179], [21.02195234547125, 46.3160879583519],
+            [18.45606245288286, 45.75948110613615], [16.202298211337364, 46.85238597267696],
+            [22.085608351334855, 48.42226430927179]
+        ],
+        [[26.619336785597795, 48.22072622333347], [26.619336785597795, 48.22072622333347]],
+        [[28.23355350109904, 45.48828318946829], [28.558081495891997, 43.70746165625813]],
+        [
+            [28.558081495891997, 43.70746165625813], [22.944832391051847, 43.82378530534713],
+            [20.220192498462836, 46.127468980486555]
+        ],
+        [
+            [20.220192498462836, 46.127468980486555], [23.142236362406805, 48.09634105080695],
+            [26.924176059687568, 48.123264472030996], [28.23355350109904, 45.48828318946829]
+        ],
+        [[26.494331495883756, 55.615106919977634], [23.48412763844985, 53.91249766704114]],
+        [[23.48412763844985, 53.91249766704114], [21.055800408622417, 56.031076361711065]],
+        [[21.055800408622417, 56.031076361711065], [26.494331495883756, 55.615106919977634]],
+        [[27.288184848751513, 57.47452830670383], [28.17670942557794, 56.16912995057879]],
+        [[28.17670942557794, 56.16912995057879], [21.055800408622417, 56.031076361711065]],
+        [
+            [21.055800408622417, 56.031076361711065], [21.581866489353672, 57.411870632549935],
+            [27.288184848751513, 57.47452830670383]
+        ],
+        [
+            [27.981126857000987, 59.47537333432527], [27.71668582531572, 57.79189911562436],
+            [24.312862583114622, 57.79342357037697], [23.339795363058645, 59.187240302153384],
+            [27.981126857000987, 59.47537333432527]
+        ],
+        [[14.119686313542559, 53.75702912049104], [15.01699588385867, 51.10667409932158]],
+        [
+            [12.240111118222558, 50.266337795607285], [13.02585127122049, 47.63758352313583],
+            [7.466759067422231, 47.62058197691181], [5.988658074577813, 51.851615709025054],
+            [9.921906365609118, 54.98310415304803]
+        ],
+        [[9.921906365609118, 54.98310415304803], [14.119686313542559, 53.75702912049104]],
+        [[22.65714969248299, 44.23492300066128], [28.558081495891997, 43.70746165625813]],
+        [
+            [28.558081495891997, 43.70746165625813], [27.99672041190539, 42.00735871028779],
+            [22.952377150166452, 41.33799388281115]
+        ],
+        [[22.952377150166452, 41.33799388281115], [22.65714969248299, 44.23492300066128]],
+        [[26.290002882601698, 35.29999034274793], [26.290002882601698, 35.29999034274793]],
+        [
+            [22.952377150166452, 41.33799388281115], [24.025024855248887, 38.21999298761642],
+            [21.67002648284364, 36.8449864771942], [20.15001590341052, 39.62499766698397],
+            [22.952377150166452, 41.33799388281115]
+        ],
+        [
+            [44.77267710159504, 37.17043692561684], [42.77912560402183, 37.385263576805755],
+            [32.509158156064075, 36.107563788389186], [27.641186557737317, 36.65882212986274],
+            [26.17078535330433, 39.463612168936464], [29.240003696415584, 41.21999074967267],
+            [35.167703891751785, 42.040224921225416], [38.34766482926452, 40.94858612727573],
+            [43.58274580259273, 41.09214325618257], [44.77267710159504, 37.17043692561684]
+        ],
+        [
+            [26.1170418637208, 41.82690460872456], [28.806438429486743, 41.05496206314856],
+            [26.35800906749779, 40.151993923496505], [26.1170418637208, 41.82690460872456]
+        ],
+        [[21.0200403174764, 40.84272695572588], [21.0200403174764, 40.84272695572588]],
+        [
+            [16.564808383864857, 46.50375092221983], [19.39047570158459, 45.236515611342384],
+            [14.901602410550879, 45.07606028907611], [16.564808383864857, 46.50375092221983]
+        ],
+        [
+            [9.59422610844635, 47.52505809182027], [7.2738509456766565, 45.776947740250776],
+            [6.736571079138059, 47.541801255882845], [9.59422610844635, 47.52505809182027]
+        ],
+        [[6.043073357781111, 50.128051662794235], [6.043073357781111, 50.128051662794235]],
+        [
+            [6.15665815595878, 50.80372101501058], [5.674051954784829, 49.529483547557504],
+            [2.5135730322461427, 51.14850617126183]
+        ],
+        [[2.5135730322461427, 51.14850617126183], [6.15665815595878, 50.80372101501058]],
+        [[6.905139601274129, 53.48216217713065], [6.15665815595878, 50.80372101501058]],
+        [
+            [6.15665815595878, 50.80372101501058], [3.8302885270431375, 51.62054454203195],
+            [6.905139601274129, 53.48216217713065]
+        ],
+        [
+            [-6.6686055159676565, 41.883386949219584], [-7.029281175148796, 38.07576406508977],
+            [-8.898856980820327, 36.86880931248078], [-9.034817674180246, 41.880570583659676]
+        ],
+        [[-7.453725551778092, 37.09778758396607], [-6.6686055159676565, 41.883386949219584]],
+        [[-6.6686055159676565, 41.883386949219584], [-9.034817674180246, 41.880570583659676]],
+        [
+            [-9.034817674180246, 41.880570583659676], [-7.97818966310831, 43.74833771420099],
+            [-1.901351284177764, 43.42280202897834], [1.8267932470871528, 42.34338471126569]
+        ],
+        [
+            [1.8267932470871528, 42.34338471126569], [0.11129072429383768, 38.73851430923304],
+            [-2.146452602538119, 36.67414419203729], [-5.3771597965614575, 35.946850083961465],
+            [-7.453725551778092, 37.09778758396607]
+        ],
+        [
+            [-6.197884894220991, 53.867565009163364], [-6.788856573910849, 52.260117906292336],
+            [-9.977085740590269, 51.82045482035308], [-9.688524542672454, 53.8813626165853],
+            [-7.572167934591064, 55.13162221945487], [-6.197884894220991, 53.867565009163364]
+        ],
+        [[165.77998986232637, -21.08000497811563], [165.77998986232637, -21.08000497811563]],
+        [[162.1190246930409, -10.48271900802115], [162.1190246930409, -10.48271900802115]],
+        [[161.67998172428912, -9.599982191611367], [161.67998172428912, -9.599982191611367]],
+        [[160.85222863183787, -9.872937106977048], [160.85222863183787, -9.872937106977048]],
+        [[159.64000288313514, -8.020026950719632], [159.64000288313514, -8.020026950719632]],
+        [[157.14000044171888, -7.021638278840641], [157.14000044171888, -7.021638278840641]],
+        [
+            [176.8858236026052, -40.0659778785822], [176.01244022044023, -41.28962411882147],
+            [173.82404666574394, -39.50885426204351], [174.3293904971262, -35.26549570082862],
+            [175.33661583892712, -37.20909799575827], [178.51709354076274, -37.6953732236248],
+            [176.8858236026052, -40.0659778785822]
+        ],
+        [
+            [169.66781456937315, -43.555325616226376], [172.79857954334403, -40.4939620908235],
+            [174.24851688058942, -41.77000823340673], [169.33233117093428, -46.641235446967876],
+            [166.67688602118417, -46.219917494492236], [169.66781456937315, -43.555325616226376]
+        ],
+        [
+            [147.68925947488418, -40.808258152022674], [147.91405195535384, -43.211522312188535],
+            [146.04837772032033, -43.549744561538844], [144.7437545106797, -40.70397511165767],
+            [147.68925947488418, -40.808258152022674]
+        ],
+        [
+            [0.0, -32.21596607842156], [0.0, -32.72875131605332],
+            [124.22164798390492, -32.95948658623607], [115.80164513556394, -32.205062351207005],
+            [113.39352339076264, -24.384764499613226], [114.1497563009219, -21.75588103606104],
+            [120.85622033089668, -19.683707777589206], [123.01257449757193, -16.405199883695886],
+            [127.06586714081732, -13.817967624570954], [128.35968997610894, -14.869169610252243],
+            [132.3572237489114, -11.128519382372696], [136.951620314685, -12.351958916882793],
+            [135.4286641786112, -14.715432224183912], [139.2605749859182, -17.371600843986208],
+            [140.87546349503924, -17.369068698803908], [142.51526004452495, -10.668185723516686],
+            [143.9220992372389, -14.548310642151996], [145.3747237489635, -14.98497649501833],
+            [146.38747846901964, -18.958274021075887], [152.8551973818059, -25.267501316023],
+            [153.56946902894418, -28.11006682710208], [152.89157759013938, -31.640445651986],
+            [149.99728397033613, -37.42526051203518], [146.31792199115478, -39.03575652441141],
+            [140.63857872941327, -38.019332777662555], [139.57414757706528, -36.13836231867066],
+            [135.98904341038428, -34.89011809666046], [134.27390262261702, -32.61723357516699],
+            [131.32633060112084, -31.49580331800104], [126.14871382050114, -32.21596607842059]
+        ],
+        [
+            [81.7879590188914, 7.523055324733164], [80.34835696810441, 5.968369859232155],
+            [80.14780073437964, 9.824077663609557], [81.7879590188914, 7.523055324733164]
+        ],
+        [[109.47520958866365, 18.197700913968575], [109.47520958866365, 18.197700913968575]],
+        [
+            [80.2599902688853, 42.34999929459906], [79.96610639844141, 44.91751699480463],
+            [85.16429039911324, 47.0009557155161], [87.75126427607671, 49.297197984405486]
+        ],
+        [
+            [87.75126427607671, 49.297197984405486], [90.28082563676392, 47.69354909930793],
+            [90.9455395853343, 45.28607330991028], [95.30687544147153, 44.24133087826547],
+            [96.34939578652781, 42.725635280928685], [101.83304039917994, 42.51487295182628],
+            [104.96499393109347, 41.59740957291635], [109.24359581913146, 42.5194463160841],
+            [117.42170128791419, 46.67273285581426], [115.74283735561579, 47.72654450132629]
+        ],
+        [
+            [115.74283735561579, 47.72654450132629], [120.7382, 51.96411000000006],
+            [121.00308475147017, 53.25140106873119]
+        ],
+        [
+            [121.00308475147017, 53.25140106873119], [125.94634891164617, 52.79279857035698],
+            [127.65740000000028, 49.760270000000105], [130.9872600000001, 47.79013000000003],
+            [135.02631147678665, 48.478229885443874], [133.09712000000013, 45.14409000000006],
+            [131.02519000000018, 44.96796000000006]
+        ],
+        [[131.02519000000018, 44.96796000000006], [130.63999970690955, 42.39502427522179]],
+        [[130.63999970690955, 42.39502427522179], [126.86908328664987, 41.81656932226619]],
+        [
+            [126.86908328664987, 41.81656932226619], [121.05455447803286, 38.897471014962846],
+            [121.64035851449353, 40.94638987890333], [117.53270226447711, 38.73763580988408],
+            [121.10416385303307, 36.651329047180425], [119.1512081238586, 34.90985911716044],
+            [121.90814578663003, 31.692174384074647], [122.0921138855891, 29.83252045340315],
+            [118.65687137255452, 24.54739085540024], [115.89073530483512, 22.78287323657807],
+            [110.78546552942407, 21.397143866455338], [108.05018029178294, 21.55237986906012]
+        ],
+        [[108.05018029178294, 21.55237986906012], [105.32920942588663, 23.352063300056912]],
+        [
+            [105.32920942588663, 23.352063300056912], [100.41653771362738, 21.558839423096614],
+            [99.24089887898725, 22.11831431730458], [97.91198774616944, 28.335945136014345],
+            [94.56599043170294, 29.277438055939985], [88.81424848832056, 27.299315904239364],
+            [78.73889448437401, 31.515906073527063], [78.91226891471322, 34.32193634697579],
+            [76.19284834178569, 35.89840342868783], [73.8222436868283, 39.893973497063186],
+            [80.2599902688853, 42.34999929459906]
+        ],
+        [[121.77781782438993, 24.3942735865194], [121.77781782438993, 24.3942735865194]],
+        [
+            [0.0, 46.89354625099776], [11.16482791509327, 46.94157949481273],
+            [13.806475457421527, 46.509306138691215]
+        ],
+        [
+            [13.806475457421527, 46.509306138691215], [12.589237094786455, 44.09136587175446],
+            [18.37668745288252, 40.35562490494263], [16.100960727613, 37.9858987493342],
+            [15.413612501698793, 40.048356838535156], [7.007562290076635, 44.25476675066136],
+            [6.843592970414505, 45.99114655210061], [10.44270145024663, 46.89354625099743]
+        ],
+        [[14.761249220446189, 38.14387360285046], [14.761249220446189, 38.14387360285046]],
+        [[8.709990675500109, 40.899984442705225], [8.709990675500109, 40.899984442705225]],
+        [
+            [9.921906365609118, 54.98310415304803], [8.08997684086222, 56.54001170513759],
+            [10.580005730846125, 57.73001658795485], [9.921906365609118, 54.98310415304803]
+        ],
+        [[12.370904168353292, 56.111407375708794], [12.370904168353292, 56.111407375708794]],
+        [[-6.197884894220991, 53.867565009163364], [-6.197884894220991, 53.867565009163364]],
+        [
+            [-3.093830673788716, 53.404547400669685], [-6.1499808414864106, 56.785009670633485],
+            [-5.009998745127632, 58.63001333275008], [-1.9592805647769183, 57.68479970969952],
+            [-2.085009324543023, 55.9099984808513], [0.469976840831805, 52.929999498092],
+            [0.5503336930455021, 50.765738837275876], [-5.776566941745273, 50.15967763935686],
+            [-3.093830673788716, 53.404547400669685]
+        ],
+        [
+            [-14.508695441129234, 66.45589223903143], [-13.60973222497981, 65.12667104761987],
+            [-18.656245896874992, 63.49638296167582], [-24.326184047939336, 65.61118927678847],
+            [-14.508695441129234, 66.45589223903143]
+        ],
+        [
+            [46.404950799348825, 41.860675157227305], [49.6189148293096, 40.57292430272996],
+            [48.63437544128482, 38.27037750910097], [44.97248009621808, 41.248128567055595]
+        ],
+        [[44.97248009621808, 41.248128567055595], [46.404950799348825, 41.860675157227305]],
+        [[46.14362308124882, 38.74120148371222], [46.14362308124882, 38.74120148371222]],
+        [
+            [39.955008579270924, 43.43499766699922], [45.47027916848572, 42.50278066666998],
+            [46.63790815612058, 41.181672675128226], [41.55408410011066, 41.53565623632757],
+            [39.955008579270924, 43.43499766699922]
+        ],
+        [[120.83389611214656, 12.704496161342433], [120.83389611214656, 12.704496161342433]],
+        [[122.5860889018671, 9.981044826696134], [122.5860889018671, 9.981044826696134]],
+        [
+            [126.37681359263745, 8.414706325713297], [125.39651167206063, 5.5810033227722755],
+            [123.61021243702749, 7.83352732994274], [126.37681359263745, 8.414706325713297]
+        ],
+        [[118.50458092659036, 9.316382554558047], [118.50458092659036, 9.316382554558047]],
+        [
+            [122.336956821788, 18.224882717354106], [121.7288285665772, 14.328376369682275],
+            [120.07042850146644, 14.970869452367126], [120.71586714079191, 18.505227362537525],
+            [122.336956821788, 18.224882717354106]
+        ],
+        [[122.03837039600555, 11.415840969279998], [122.03837039600555, 11.415840969279998]],
+        [[125.50255171112354, 12.162694606978292], [125.50255171112354, 12.162694606978292]],
+        [
+            [100.0857568705271, 6.4644894474502905], [103.38121463421217, 4.8550011255037475],
+            [103.51970747275439, 1.2263337264006822], [101.39063846232919, 2.760813706875581],
+            [100.0857568705271, 6.4644894474502905]
+        ],
+        [
+            [117.88203494677018, 4.137551377779516], [115.8655172058767, 4.3065591495901],
+            [114.62135542201753, 1.4306881778989011], [110.51406090702716, 0.7731314152009645]
+        ],
+        [
+            [110.51406090702716, 0.7731314152009645], [116.72510298061971, 6.924771429873999],
+            [119.18190392463997, 5.407835598162207], [117.88203494677018, 4.137551377779516]
+        ],
+        [[115.45071048386981, 5.447729803891534], [115.45071048386981, 5.447729803891534]],
+        [[13.806475457421527, 46.509306138691215], [13.806475457421527, 46.509306138691215]],
+        [
+            [28.591929559043194, 69.06477692328666], [29.97742638522061, 67.69829702419275],
+            [30.035872430142717, 63.55281362573855], [31.516092156711125, 62.86768748641289]
+        ],
+        [
+            [31.516092156711125, 62.86768748641289], [28.069997592895277, 60.50351654727584],
+            [22.869694858499457, 59.846373196036225], [21.05921105315369, 62.60739329695874],
+            [25.398067661243942, 65.11142650009374], [23.53947309743444, 67.93600861273525]
+        ],
+        [[23.53947309743444, 67.93600861273525], [26.179622023226244, 69.82529897732614]],
+        [[26.179622023226244, 69.82529897732614], [28.591929559043194, 69.06477692328666]],
+        [
+            [22.558137648211755, 49.085738023467144], [17.857132602620027, 47.75842886005037],
+            [18.554971144289482, 49.495015367218784], [22.558137648211755, 49.085738023467144]
+        ],
+        [
+            [15.01699588385867, 51.10667409932158], [18.853144158613617, 49.49622976337764],
+            [14.338897739324722, 48.55530528420721], [12.240111118222558, 50.266337795607285]
+        ],
+        [[12.240111118222558, 50.266337795607285], [15.01699588385867, 51.10667409932158]],
+        [
+            [36.42951000000005, 14.422110000000032], [38.410089959473225, 17.998307399970315],
+            [40.896600000000035, 14.118640000000141]
+        ],
+        [
+            [141.88460086483497, 39.180864569651476], [140.77407433488258, 35.842877102190215],
+            [135.79298302626893, 33.46480520276663], [135.0794348491827, 34.596544908174806],
+            [130.98614464734345, 33.88576142021624], [131.33279015515734, 31.450354519164822],
+            [129.40846316947255, 33.29605581311752], [132.61767296766243, 35.433393052709405],
+            [135.67753787652885, 35.52713410088687], [139.42640465714283, 38.21596222589761],
+            [140.30578250545364, 41.19500519465953], [141.88460086483497, 39.180864569651476]
+        ],
+        [
+            [144.61342654843963, 43.96088288021748], [143.18384972551723, 41.9952147486992],
+            [141.6114909201724, 42.6787905950561], [141.96764489152798, 45.55148346616134],
+            [144.61342654843963, 43.96088288021748]
+        ],
+        [[132.37117638563024, 33.46364248304006], [132.37117638563024, 33.46364248304006]],
+        [
+            [-58.166392381408045, -20.176700941653678], [-57.937155727761294, -22.090175876557172],
+            [-54.29295956075452, -24.02101409271073], [-54.78879492859505, -26.621785577096134],
+            [-58.61817359071975, -27.123718763947096]
+        ],
+        [[-58.61817359071975, -27.123718763947096], [-57.77721716981794, -25.16233977630904]],
+        [[-57.77721716981794, -25.16233977630904], [-62.685057135657885, -22.249029229422387]],
+        [[-62.685057135657885, -22.249029229422387], [-61.78632646345377, -19.633736667562964]],
+        [[-61.78632646345377, -19.633736667562964], [-58.166392381408045, -20.176700941653678]],
+        [[52.00000980002224, 19.000003363516058], [53.10857262554751, 16.651051133688952]],
+        [
+            [53.10857262554751, 16.651051133688952], [48.67923058451416, 14.00320241948566],
+            [43.48295861183713, 12.636800035040084], [43.380794305196105, 17.57998668056767]
+        ],
+        [[47.46669477721763, 17.116681626854884], [52.00000980002224, 19.000003363516058]],
+        [
+            [0.0, 29.35655467377896], [6.93465039290975e-310, 29.19749461518448],
+            [36.50121422704359, 29.505253607698705], [37.00216556168101, 31.508412990844747],
+            [39.19546837744497, 32.16100881604267]
+        ],
+        [[39.19546837744497, 32.16100881604267], [44.70949873228474, 29.178891099559383]],
+        [
+            [44.70949873228474, 29.178891099559383], [47.45982181172283, 29.002519436147224],
+            [50.15242231629088, 26.689663194275997], [52.000733270074335, 23.00115448657894],
+            [55.666659376859826, 22.00000112557234], [54.99998172386236, 19.999994004796108]
+        ],
+        [
+            [54.99998172386236, 19.999994004796108], [49.11667158386487, 18.616667588774945],
+            [47.46669477721763, 17.116681626854884]
+        ],
+        [[47.46669477721763, 17.116681626854884], [43.380794305196105, 17.57998668056767]],
+        [
+            [43.380794305196105, 17.57998668056767], [42.77933230975097, 16.347891343648683],
+            [39.06632897314759, 22.57965566659027], [35.13018680190788, 28.06335195567472],
+            [34.95603722508426, 29.356554673778845]
+        ],
+        [
+            [-48.66061601418252, -78.04701873159873], [-43.92082780615574, -78.47810272233328],
+            [-43.33326677099714, -80.0261227355129], [-50.48210689960646, -81.02544158317313],
+            [-53.987991095584036, -80.22202809033138], [-48.66061601418252, -78.04701873159873]
+        ],
+        [[-66.29003089055513, -80.25577280061798], [-66.29003089055513, -80.25577280061798]],
+        [
+            [-73.9158186510023, -71.26934457792578], [-72.07471655952358, -71.19095062269476],
+            [-70.25325151231577, -68.87874033622717], [-68.78429724798698, -72.17073577894867],
+            [-74.19003963895912, -72.36669281019945], [-73.9158186510023, -71.26934457792578]
+        ],
+        [[-102.33072506387639, -71.89416432076682], [-102.33072506387639, -71.89416432076682]],
+        [[-122.62173458544193, -73.65777760202387], [-122.62173458544193, -73.65777760202387]],
+        [[-127.28312964568192, -73.46176889434079], [-127.28312964568192, -73.46176889434079]],
+        [[-163.7128956777287, -78.59566741324154], [-163.7128956777287, -78.59566741324154]],
+        [
+            [0.0, -84.71338000000048], [0.0, -90.00000000000307], [-179.99999999999994, -90.0],
+            [-179.99999999999994, -84.71337999999997], [-169.9512229075714, -83.88464690545015],
+            [-158.07137956442492, -85.37391000766968], [-148.53307288307155, -85.60903777459771],
+            [-142.89227943237557, -84.57049651482794], [-153.58620113830017, -83.68868987419938],
+            [-152.86151669005503, -82.04269215283858], [-156.83744971415953, -81.10212940869428],
+            [-150.6482926096426, -81.33730885205455], [-146.77028642473124, -79.92643889762189],
+            [-155.32937639058574, -79.06426930126423], [-156.974573127246, -77.30075856542754],
+            [-151.33378048399427, -77.39873708105284], [-144.32203712281103, -75.53719696060273],
+            [-135.21458269569132, -74.30269866958218], [-119.70255957093428, -74.47901865656195],
+            [-113.9443314278551, -73.71482757582987], [-107.55934648316816, -75.18445363377845],
+            [-100.64553076862228, -75.30201751724246], [-103.68128862182442, -72.61753021254418],
+            [-96.33659481482897, -73.6168490602044], [-88.42395117872957, -73.00939259861343],
+            [-76.2218794420271, -73.96954071059645], [-67.36906063502556, -72.48032928480927],
+            [-68.48545244004305, -70.10931121839354], [-67.74118262395939, -67.3268453980699],
+            [-63.00139441593262, -64.6423080318279], [-62.12007870141076, -66.19032562267466],
+            [-65.50842485214054, -67.58161020926889], [-61.51290646019743, -71.0890446982151],
+            [-61.96336992048572, -74.43984792088486], [-70.6007238430463, -76.63449432388842],
+            [-77.24037024606764, -76.71288747167517], [-73.6561187405195, -77.90811167415393],
+            [-77.92585812041932, -78.37841888444223], [-75.36009741891172, -80.25954518017522],
+            [-59.69141557477349, -82.37585011182438], [-58.22248714866089, -83.21843434034338],
+            [-49.76134986021549, -81.7291712381238], [-42.80836340999241, -82.08191456494814],
+            [-28.549802212018733, -80.33793832796204], [-29.685805223090995, -79.260226332515],
+            [-35.63991207532831, -79.45613168733348], [-35.77700965019869, -78.33924814876502],
+            [-28.882779303491418, -76.67366505956568], [-22.458597784910978, -76.1054310100842],
+            [-15.70149085129026, -74.49860402440066], [-16.4653201969964, -73.87161387140338],
+            [-10.295774298534184, -71.26541636162733], [-6.868231573911146, -70.93231007907394],
+            [-0.22863684732209322, -71.63774505629027], [9.525134718472202, -70.01133270276819],
+            [19.259372592860018, -69.89376881930406], [22.56940311045139, -70.69718231214586],
+            [29.15024173352458, -70.20728973401896], [33.87041873549657, -68.50258758557459],
+            [38.649403517416886, -69.77620493584016], [40.02043094255248, -69.10994069430097],
+            [56.35504113141985, -65.97478322358535], [62.38748945501169, -68.01269500744758],
+            [68.89003828316288, -67.93430185966076], [69.55594078967584, -69.67822642021474],
+            [67.94988895047663, -71.85328745537964], [71.02489505400456, -72.08841522230773],
+            [73.86487674346921, -69.87418345146551], [77.64490441275518, -69.46268402112526],
+            [82.77642581577044, -67.20928151460589], [87.98628869014021, -66.20991099051338],
+            [90.63036502478627, -67.22886688244449], [99.71818240763503, -67.24850392671544],
+            [102.83241092327262, -65.56328379324515], [106.18156050010873, -66.93493133556836],
+            [113.60467329310734, -65.87680470795993], [120.8709997905321, -67.18969614676723],
+            [122.32036868702232, -66.56265431733766], [128.80328047090234, -66.75861134858849],
+            [134.75738732313982, -66.20996266694567], [137.46027143773392, -66.95456837983926],
+            [145.490427280865, -66.9153459677297], [146.64606733620815, -67.89513112398367],
+            [154.2845674989992, -68.56129201265821], [162.68689700749633, -70.73635304782317],
+            [171.20679039945753, -71.69650115980608], [169.2873209984083, -73.65601979588166],
+            [164.23419274317962, -75.45880381281597], [163.48989708887973, -77.06557912206722],
+            [166.99578128485734, -78.75074757910522], [161.7663847190811, -79.16224781688965],
+            [159.78821089094833, -80.945394789553], [163.70533613510474, -82.39543547966286],
+            [173.22408328683537, -84.41371021925437], [180.0, -84.71337999999997]
+        ],
+        [[32.73178022637745, 35.14002594658844], [32.73178022637745, 35.14002594658844]],
+        [
+            [-2.169913702798624, 35.16839630791668], [-1.30789913573787, 32.2628889023061],
+            [-8.674116176782974, 28.84128896739658]
+        ],
+        [
+            [-8.674116176782974, 28.84128896739658], [-8.794883999049077, 27.120696316022507],
+            [-11.392554897497007, 26.883423977154393]
+        ],
+        [[-11.392554897497007, 26.883423977154393], [-14.750954555713534, 21.500600083903663]],
+        [
+            [-14.750954555713534, 21.500600083903663], [-17.02042843267577, 21.422310288981578],
+            [-14.439939947964831, 26.254418443297652], [-9.564811163765683, 29.93357371674989],
+            [-8.657476365585012, 33.240245266242425], [-5.92999426921989, 35.75998810479399],
+            [-2.169913702798624, 35.16839630791668]
+        ],
+        [[36.86622999999997, 22.0], [25.0, 22.0]],
+        [
+            [25.0, 22.0], [25.16482, 31.56915], [33.7734, 30.967460000000003], [34.9226, 29.50133],
+            [32.73482, 28.70523], [36.86622999999997, 22.0]
+        ],
+        [[25.0, 22.0], [23.83766000000014, 19.580470000000105]],
+        [[23.83766000000014, 19.580470000000105], [15.860850000000084, 23.409719999999993]],
+        [
+            [15.860850000000084, 23.409719999999993], [14.143870883855243, 22.491288967371133],
+            [10.303846876678362, 24.379313259370917], [9.319410841518163, 26.094324856057455]
+        ],
+        [
+            [9.319410841518163, 26.094324856057455], [9.950225050505082, 31.376069647745258],
+            [11.488787469131012, 33.13699575452324]
+        ],
+        [
+            [11.488787469131012, 33.13699575452324], [15.245630000000006, 32.26508000000007],
+            [19.08641, 30.26639], [20.854520000000093, 32.70679999999999],
+            [24.921139999999923, 31.89936], [25.0, 22.0]
+        ],
+        [[47.78942, 8.003], [44.96360000000001, 5.00162]],
+        [
+            [44.96360000000001, 5.00162], [39.55938425876585, 3.42206],
+            [36.159078632855646, 4.447864127672769]
+        ],
+        [[36.159078632855646, 4.447864127672769], [33.568290000000104, 7.7133400000000165]],
+        [[33.568290000000104, 7.7133400000000165], [36.42951000000005, 14.422110000000032]],
+        [[36.42951000000005, 14.422110000000032], [40.896600000000035, 14.118640000000141]],
+        [[40.896600000000035, 14.118640000000141], [43.678750000000036, 9.18358000000012]],
+        [[42.35156000000012, 12.542230000000131], [42.35156000000012, 12.542230000000131]],
+        [[48.94820475850985, 11.41061728169797], [47.78942, 8.003]],
+        [[47.78942, 8.003], [43.678750000000036, 9.18358000000012]],
+        [
+            [43.678750000000036, 9.18358000000012], [44.11780358254282, 10.445538438351605],
+            [48.94820475850985, 11.41061728169797]
+        ],
+        [
+            [33.90371119710453, -0.9500000000000001], [29.821518588996014, -1.4433224422297855],
+            [30.83385989759381, 3.509165961110341], [34.005, 4.249884947362048]
+        ],
+        [
+            [34.005, 4.249884947362048], [35.03599, 1.90584],
+            [33.90371119710453, -0.9500000000000001]
+        ],
+        [[30.419104852019245, -1.1346591121504161], [30.419104852019245, -1.1346591121504161]],
+        [
+            [18.559999999999945, 42.64999999999998], [15.750026075918981, 44.818711656262565],
+            [19.36802999999992, 44.863000000000056], [18.559999999999945, 42.64999999999998]
+        ],
+        [[22.380525750424592, 42.32025950781509], [22.380525750424592, 42.32025950781509]],
+        [[18.829824792873946, 45.908872358025285], [20.220192498462836, 46.127468980486555]],
+        [
+            [20.220192498462836, 46.127468980486555], [22.986018507588483, 43.2111612005271],
+            [19.629999999999995, 43.21377997027054], [18.829824792873946, 45.908872358025285]
+        ],
+        [[20.070700000000045, 42.58863000000008], [20.070700000000045, 42.58863000000008]],
+        [[20.590246546680227, 41.855408919283626], [20.590246546680227, 41.855408919283626]],
+        [[-61.68000000000001, 10.760000000000002], [-61.68000000000001, 10.760000000000002]],
+        [
+            [30.833852421715427, 3.5091716042224625], [27.97997724784281, 4.408413397637375],
+            [23.886979580860668, 8.619729712933065], [25.069603699343986, 10.273759963267992]
+        ],
+        [
+            [25.069603699343986, 10.273759963267992], [31.35286189552488, 9.810240916008695],
+            [33.206938084561784, 12.179338268667095]
+        ],
+        [[33.206938084561784, 12.179338268667095], [33.568290000000104, 7.7133400000000165]],
+        [
+            [33.568290000000104, 7.7133400000000165], [35.29800711823298, 5.506],
+            [30.833852421715427, 3.5091716042224625]
+        ]
+    ]
+}
