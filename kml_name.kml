@@ -10,6 +10,7 @@
         <Folder>
             <name>ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia</name>
             <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.1">
+                <name>Exemplo de Título</name>
                 <ExtendedData>
                     <SchemaData schemaUrl="#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1">
                         <SimpleData name="geocodigo">2310506</SimpleData>
@@ -23,7 +24,7 @@
                 </Point>
             </Placemark>
             <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.2">
-                <name>Blue Line Teste</name>
+                <name>Exemplo 2</name>
                 <description>Descrição xxxxxxxxxxxxxxxxxxxxxxxx</description>
                 <ExtendedData>
                     <SchemaData schemaUrl="#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1">
@@ -38,6 +39,7 @@
                 </Point>
             </Placemark>
             <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.3">
+                <description>Exemplo de Descricao</description>
                 <ExtendedData>
                     <SchemaData schemaUrl="#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1">
                         <SimpleData name="geocodigo">2311405</SimpleData>
