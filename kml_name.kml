@@ -10,14 +10,6 @@
         <Folder>
             <name>ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia</name>
             <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.1">
-                <title>The faulkner_usa Pool, with geodata</title>
-                  <link rel="self" href="http://api.flickr.com/services/feeds/geo/?g=322338@N20&amp;lang=en-us&amp;format=feed-georss" />
-                  <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/"/>
-                  <id>tag:flickr.com,2005:/photos/public/group/322338@N20/geo/</id>
-                  <icon>https://combo.staticflickr.com/pw/images/buddyicon02_r.png#322338@N20</icon>
-                  <subtitle>Pictures of my dog in a variety of locations</subtitle>
-                  <updated>2006-08-29T15:41:19Z</updated>
-                  <generator uri="https://www.flickr.com/">Flickr</generator>
                 <ExtendedData>
                     <SchemaData schemaUrl="#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1">
                         <SimpleData name="geocodigo">2310506</SimpleData>
@@ -32,6 +24,7 @@
             </Placemark>
             <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.2">
                 <name>Blue Line Teste</name>
+                <description>Descrição xxxxxxxxxxxxxxxxxxxxxxxx</description>
                 <ExtendedData>
                     <SchemaData schemaUrl="#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1">
                         <SimpleData name="geocodigo">2312700</SimpleData>
