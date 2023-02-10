@@ -23,12 +23,10 @@
             <name>ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia</name>
             <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.1">
                 <ExtendedData>
-                    <SchemaData schemaUrl="#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1">
-                        <SimpleData name="geocodigo">2310506</SimpleData>
-                        <SimpleData name="nivel_orig">5</SimpleData>
-                        <SimpleData name="municipio">Pedra Branca</SimpleData>
-                        <SimpleData name="hierarquia">Centro Local</SimpleData>
-                    </SchemaData>
+                        <Data name="geocodigo">2310506</Data>
+                        <Data name="nivel_orig">5</Data>
+                        <Data name="municipio">Pedra Branca</Data>
+                        <Data name="hierarquia">Centro Local</Data>
                 </ExtendedData>
                 <Point>
                     <coordinates>-39.717365505999965,-5.454387000103696</coordinates>
