@@ -27,7 +27,7 @@
       <Data name="hierarquia"><value>Centro Local</value></Data>
     </ExtendedData>
     <Point>
-      <coordinates>-111.956,33.5043</coordinates>
+      <coordinates>-39.717365505999965,-5.454387000103696</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -48,7 +48,7 @@
       </Data>
     </ExtendedData>
     <Point>
-      <coordinates>-111.95,33.5024</coordinates>
+      <coordinates>-39.372362676999956,-5.588388236120443</coordinates>
     </Point>
   </Placemark>
 </Document>
