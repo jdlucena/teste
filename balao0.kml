@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Data+BalloonStyle</name>
+  <Style id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1">
+    <BalloonStyle>
+      <text>
+        <![CDATA[
+          This is $[name]
+          This is hole $[geocodigo]
+          The par for this hole is $[nivel_orig]
+          The yardage is $[municipio]
+        ]]>
+      </text>
+    </BalloonStyle>
+  </Style>
+  <!-- Shared style sample
+        Two Placemarks use the same balloon template
+  -->
+  <Placemark>
+    <name>Club house</name>
+    <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+    <ExtendedData>
+      <Data name="geocodigo">2310506</Data>
+      <Data name="nivel_orig">5</Data>
+      <Data name="municipio">Pedra Branca</Data>
+      <Data name="hierarquia">Centro Local</Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-111.956,33.5043</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>By the lake</name>
+    <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+    <ExtendedData>
+      <Data name="geocodigo">
+        <value>5</value>
+      </Data>
+      <Data name="nivel_orig">
+        <value>523</value>
+      </Data>
+      <Data name="municipio">
+        <value>5</value>
+      </Data>
+      <Data name="hierarquia">
+        <value>5sadsadasd</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-111.95,33.5024</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
