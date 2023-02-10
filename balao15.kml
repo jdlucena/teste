@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Data+BalloonStyle</name>
+        <style id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1">
+            <BalloonStyle>
+                <text>
+                  <![CDATA[
+                    <b>Município:</b> $[municipio]<br>
+                    <b>Geocódigo:</b> $[geocodigo]<br>
+                    <b>Nível:</b> $[nivel_orig]<br>
+                    <b>Hierarquia:</b> $[hierarquia]
+                  ]]>
+                </text>
+            </BalloonStyle>
+        </style>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.1">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2310506</value></data>
+                <data name="nivel_orig"><value>5</value></data>
+                <data name="municipio"><value>Pedra Branca</value></data>
+                <data name="hierarquia"><value>Centro Local</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-39.717365505999965,-5.454387000103696</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.2">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2312700</value></data>
+                <data name="nivel_orig"><value>4b</value></data>
+                <data name="municipio"><value>Senador Pompeu</value></data>
+                <data name="hierarquia"><value>Centro de Zona B</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-39.372362676999956,-5.588388236120443</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.3">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2311405</value></data>
+                <data name="nivel_orig"><value>5</value></data>
+                <data name="municipio"><value>Quixeramobim</value></data>
+                <data name="hierarquia"><value>Centro Local</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-39.29336177699997,-5.199385295074576</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.4">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2304269</value></data>
+                <data name="nivel_orig"><value>5</value></data>
+                <data name="municipio"><value>Deputado Irapuan Pinheiro</value></data>
+                <data name="hierarquia"><value>Centro Local</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-39.26836200399999,-5.917390815165848</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.5">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2303931</value></data>
+                <data name="nivel_orig"><value>5</value></data>
+                <data name="municipio"><value>Choró</value></data>
+                <data name="hierarquia"><value>Centro Local</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-39.14136029399998,-4.843382624039582</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.6">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2308351</value></data>
+                <data name="nivel_orig"><value>5</value></data>
+                <data name="municipio"><value>Milhã</value></data>
+                <data name="hierarquia"><value>Centro Local</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-39.19436122299993,-5.675389013131861</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.7">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2311306</value></data>
+                <data name="nivel_orig"><value>3a</value></data>
+                <data name="municipio"><value>Quixadá</value></data>
+                <data name="hierarquia"><value>Centro Subregional A</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-39.01535929399995,-4.971383687051421</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.8">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2313005</value></data>
+                <data name="nivel_orig"><value>5</value></data>
+                <data name="municipio"><value>Solonópole</value></data>
+                <data name="hierarquia"><value>Centro Local</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-39.008359679999955,-5.733389574139667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.9">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2301851</value></data>
+                <data name="nivel_orig"><value>5</value></data>
+                <data name="municipio"><value>Banabuiú</value></data>
+                <data name="hierarquia"><value>Centro Local</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-38.921358685999955,-5.3103863660868065</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.10">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2305266</value></data>
+                <data name="nivel_orig"><value>5</value></data>
+                <data name="municipio"><value>Ibaretama</value></data>
+                <data name="hierarquia"><value>Centro Local</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-38.75335697799994,-4.804382524036125</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.11">
+            <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
+            <ExtendedData>
+                <data name="geocodigo"><value>2305332</value></data>
+                <data name="nivel_orig"><value>5</value></data>
+                <data name="municipio"><value>Ibicuitinga</value></data>
+                <data name="hierarquia"><value>Centro Local</value></data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-38.63935609599998,-4.974383913051693</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
