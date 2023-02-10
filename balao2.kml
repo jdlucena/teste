@@ -6,7 +6,7 @@
     <BalloonStyle>
       <text>
         <![CDATA[
-          This is $[hierarquia]
+          This is $[name]
           This is hole $[geocodigo]
           The par for this hole is $[nivel_orig]
           The yardage is $[municipio]
