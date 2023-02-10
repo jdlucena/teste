@@ -12,13 +12,7 @@
                 ]]>
             </text>
             </BalloonStyle>
-        </Style>
-        <Schema name="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1" id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1">
-            <SimpleField type="string" name="geocodigo"/>
-            <SimpleField type="string" name="nivel_orig"/>
-            <SimpleField type="string" name="municipio"/>
-            <SimpleField type="string" name="hierarquia"/>
-        </Schema>
+        </Style>        
         <Folder>
             <name>ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia</name>
             <Placemark id="ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia.1">
