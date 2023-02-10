@@ -18,19 +18,6 @@
         Two Placemarks use the same balloon template
   -->
   <Placemark>
-  <name>Club hous2222e</name>
-    <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
-      <ExtendedData>
-              <Data name="geocodigo"><value>2310506<value></Data>
-              <Data name="nivel_orig"><value>5<value></Data>
-              <Data name="municipio"><value>Pedra Branca<value></Data>
-              <Data name="hierarquia"><value>Centro Local<value></Data>
-      </ExtendedData>
-      <Point>
-          <coordinates>-111.956,33.55</coordinates>
-      </Point>
-  </Placemark>  
-  <Placemark>
     <name>Club house</name>
     <styleUrl>#ANMS2010_08_reg_influ_centros_sub-reg_Quixada_Hierarquia_1</styleUrl>
     <ExtendedData>
