@@ -129,7 +129,7 @@
         "margemEbitda": 0.0,
         "margemEbit": 7.85,
         "margemLiquida": 1.93,
-        "price": 
+        "price": null
     },
     {
         "year": 2020,
@@ -141,7 +141,7 @@
         "margemEbitda": 15.40,
         "margemEbit": 10.87,
         "margemLiquida": 5.34,
-        "price": 
+        "price": null
     },
     {
         "year": 2019,
@@ -153,7 +153,7 @@
         "margemEbitda": 16.40,
         "margemEbit": 11.97,
         "margemLiquida": 4.56,
-        "price": 
+        "price": null
     },
     {
         "year": 2019,
@@ -165,7 +165,7 @@
         "margemEbitda": 0.0,
         "margemEbit": 10.33,
         "margemLiquida": 3.07,
-        "price": 
+        "price": null
     },
     {
         "year": 2019,
@@ -177,7 +177,7 @@
         "margemEbitda": 0.0,
         "margemEbit": 7.53,
         "margemLiquida": 1.78,
-        "price": 
+        "price": null
     },
     {
         "year": 2019,
@@ -189,6 +189,6 @@
         "margemEbitda": 0.0,
         "margemEbit": 4.01,
         "margemLiquida": -0.53,
-        "price": 
+        "price": null
     }
 ]
