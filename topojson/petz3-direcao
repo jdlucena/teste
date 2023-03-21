@@ -1,0 +1,258 @@
+	[
+		{
+			"periodo": "00/0",
+			"controlON": 0,
+			"conselAdmON": 0,
+			"diretoriaON": 0,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "08/2020",
+			"controlON": 348366000,
+			"conselAdmON": 0,
+			"diretoriaON": 0,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "09/2020",
+			"controlON": 0,
+			"conselAdmON": 132021556,
+			"diretoriaON": 31,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "10/2020",
+			"controlON": 0,
+			"conselAdmON": 132021556,
+			"diretoriaON": 31,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "11/2020",
+			"controlON": 0,
+			"conselAdmON": 132028556,
+			"diretoriaON": 31,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "12/2020",
+			"controlON": 0,
+			"conselAdmON": 132034356,
+			"diretoriaON": 31,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "01/2021",
+			"controlON": 0,
+			"conselAdmON": 132034356,
+			"diretoriaON": 31,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "02/2021",
+			"controlON": 0,
+			"conselAdmON": 132034356,
+			"diretoriaON": 31,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "03/2021",
+			"controlON": 0,
+			"conselAdmON": 133646354,
+			"diretoriaON": 1927000,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "04/2021",
+			"controlON": 0,
+			"conselAdmON": 133656354,
+			"diretoriaON": 1927000,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "05/2021",
+			"controlON": 0,
+			"conselAdmON": 133656354,
+			"diretoriaON": 1927000,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "06/2021",
+			"controlON": 0,
+			"conselAdmON": 133633354,
+			"diretoriaON": 1927000,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "07/2021",
+			"controlON": 0,
+			"conselAdmON": 133633354,
+			"diretoriaON": 1927000,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "08/2021",
+			"controlON": 0,
+			"conselAdmON": 133463354,
+			"diretoriaON": 1927000,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "09/2021",
+			"controlON": 0,
+			"conselAdmON": 132606254,
+			"diretoriaON": 1810237,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "10/2021",
+			"controlON": 0,
+			"conselAdmON": 132556254,
+			"diretoriaON": 1810237,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "11/2021",
+			"controlON": 0,
+			"conselAdmON": 132562533,
+			"diretoriaON": 1810237,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "12/2021",
+			"controlON": 0,
+			"conselAdmON": 132562533,
+			"diretoriaON": 941859,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "01/2022",
+			"controlON": 0,
+			"conselAdmON": 132562533,
+			"diretoriaON": 924559,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "02/2022",
+			"controlON": 0,
+			"conselAdmON": 132562533,
+			"diretoriaON": 924559,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "03/2022",
+			"controlON": 0,
+			"conselAdmON": 122749104,
+			"diretoriaON": 984002,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "04/2022",
+			"controlON": 0,
+			"conselAdmON": 122749104,
+			"diretoriaON": 984002,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "05/2022",
+			"controlON": 0,
+			"conselAdmON": 123749104,
+			"diretoriaON": 2669212,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "06/2022",
+			"controlON": 0,
+			"conselAdmON": 123749104,
+			"diretoriaON": 2169212,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "07/2022",
+			"controlON": 0,
+			"conselAdmON": 123749104,
+			"diretoriaON": 2169212,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "08/2022",
+			"controlON": 0,
+			"conselAdmON": 123749104,
+			"diretoriaON": 2169212,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "09/2022",
+			"controlON": 0,
+			"conselAdmON": 123749104,
+			"diretoriaON": 2169212,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "10/2022",
+			"controlON": 0,
+			"conselAdmON": 123749104,
+			"diretoriaON": 2169212,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "11/2022",
+			"controlON": 0,
+			"conselAdmON": 123749104,
+			"diretoriaON": 2169212,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "12/2022",
+			"controlON": 0,
+			"conselAdmON": 123649104,
+			"diretoriaON": 1185241,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "01/2023",
+			"controlON": 0,
+			"conselAdmON": 123649104,
+			"diretoriaON": 1185241,
+			"conselFisON": 0,
+			"orgaosON": 0
+		},
+		{
+			"periodo": "02/2023",
+			"controlON": 0,
+			"conselAdmON": 123649104,
+			"diretoriaON": 1185241,
+			"conselFisON": 0,
+			"orgaosON": 0
+		}
+	]
