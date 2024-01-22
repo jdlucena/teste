@@ -1,0 +1,83 @@
+
+    .page_wrapper {
+        width: 100%;
+        overflow-x: hidden;
+    }
+    .bred_crumb .banner_shape1,
+    .banner_shape2,
+    .banner_shape3 {
+        position: absolute;
+    }
+
+    .bred_crumb .banner_shape1 {
+        top: 200px;
+        left: 15%;
+        animation: mymove 10s infinite;
+    }
+    .bred_crumb .banner_shape2 {
+        top: 100px;
+        right: 10%;
+        animation: mymove 5s infinite;
+    }
+    .bred_crumb .banner_shape3 {
+        top: 350px;
+        right: 20%;
+        animation: mymove 3s infinite;
+    }
+    .bred_crumb {
+        background-image: url(https://datasebrae.com.br/home/assets/images/bread_crumb_bg.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        min-height: 500px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        position: relative;
+        margin-top: -60px;
+    }
+    .bred_crumb::after {
+        content: "";
+        background-image: url(https://datasebrae.com.br/home/assets/images/inner_page_banner_overlay.svg);
+        position: absolute;
+        bottom: -1px;
+        left: 0;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 200px;
+        background-position: center;
+    }
+    .bred_crumb .bred_text {
+        text-align: center;
+        z-index: 1000;
+        position: relative;
+    }
+    .bred_crumb .bred_text h1 {
+        color: var(--text-white);
+        font-size: 55px;
+        font-weight: 700;
+    }
+    .bred_crumb .bred_text h1 + p {
+        color: var(--text-white);
+        margin-top: -5px;
+    }
+    .corpo {
+        background-color: #f5f2fd;
+        margin-top: -15px;
+    }
+
+    .toggle label {
+        cursor: pointer;
+        display: block;
+        padding: 10px;
+        background-color: #eee;
+        margin-bottom: 5px;
+    }
+
+    .toggle-content {
+        display: none;
+        padding: 10px;
+        border: 1px solid #ccc;
+        margin-top: 5px;
+    }
