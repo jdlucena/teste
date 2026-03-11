@@ -1,0 +1,2193 @@
+[
+    {
+        "estado": "AC",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Desenvolvimento de Produto",
+        "descricao": "Desenvolvimento de Produtos Alimentícios Novos ou Melhorados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Desenvolvimento-de-Produtos-Alimenticios-Novos-ou-Melhorados-DP41001-6.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Desenvolvimento de Produto",
+        "descricao": "Desenvolvimento de Produto",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Desenvolvimento-de-Produto-DP41002-3.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Design",
+        "subclasse": "Design de Comunicação",
+        "descricao": "Comunicação Visual",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Comunicacao-Visual-DC22005-5.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Design",
+        "subclasse": "Design de Comunicação",
+        "descricao": "Design de Rótulo(s) e Aplicações de elementos gráficos na embalagem",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Design-de-Rotulos-e-Aplicacoes-de-elementos-graficos-na-embalagem-DC22004-5.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Design",
+        "subclasse": "Design de Comunicação",
+        "descricao": "Sinalização",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Sinalização-DC22003-3.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Design",
+        "subclasse": "Design de Produto",
+        "descricao": "Design de Embalagens",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/04/Design-de-Embalagens-DP23003-4.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Design",
+        "subclasse": "Design de Produto",
+        "descricao": "Design de Produto Tridimensional",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Design-de-Produto-Tridimensional-DP23002-2.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Design",
+        "subclasse": "Design de Serviço",
+        "descricao": "Design e Melhoria de Serviços",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/09/Design-e-Melhoria-de-Serviços-DS24001-4.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Design",
+        "subclasse": "Design de Serviço",
+        "descricao": "UX – Experiência do Usuário em Ambientes Digitais",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/09/UX-Experiência-do-Usuário-em-Ambientes-Digitais-DS24002-3.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Organização e Controle de Estoque",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Organizacao-e-Controle-de-Estoque-CS11002-3.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Otimização da Cadeia de Suprimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Otimização-da-Cadeia-de-Suprimentos-CS11003-3.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Avaliação de Tempo de Vida de Prateleira",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/08/Avaliação-de-Tempo-de-Vida-de-Prateleira-GQ13024-3.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 9001:2015 – Sistema de Gestão da Qualidade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-9001-2015-Sistema-de-Gestão-da-Qualidade-GQ13004-4.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 22000:2019 – Sistemas de Gestão de Segurança de Alimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-22000-2019-Sistemas-de-Gestão-de-Segurança-de-Alimentos-GQ13009-4.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO/IEC 17025:2017 – Requisitos gerais para a competência de laboratórios de ensaio e calibração",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Adequação-à-norma-ABNT-NBR-ISO-IEC-17025-2017-GQ13005-3.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à regulamentação da produção orgânica",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/05/Adequação-à-regulamentação-da-produção-orgânica-GQ13008-4.pdf"
+    },
+    {
+        "estado": "AC",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação da Área de Produção à Legislação Sanitária",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/08/Adequação-da-Área-de-Produção-à-Legislação-Sanitária-GQ13001-5.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Fertilização In Vitro FIV – Rebanho",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Fertilizacao-In-Vitro-FIV-Rebanho-MGB43001-10.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Genotipagem para Beta Caseína para Rebanhos Leiteiros",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/06/Genotipagem-para-Beta-Caseína-para-Rebanhos-Leiteiros-MGB43011-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Injeção Intracitoplasmática de Espermatozoides (ICSI) na Reprodução de Equinos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Injeção-Intracitoplasmática-de-Espermatozoides-ICSI-na-Reprodução-de-Equinos-MGB43007-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Inseminação Artificial por Tempo Fixo – IATF – Rebanho",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/05/Inseminacao-Artificial-por-Tempo-Fixo-IATF-Rebanho-MGB43002-9.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Melhoramento Genético na Fruticultura",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Melhoramento-Genético-na-Fruticultura-MGB43006-3.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Melhoria Genética – Caprinos e Ovinos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Melhoria-Genetica-Caprinos-e-Ovinos-MGB43008-4.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Melhoria Genética – Equinos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Melhoria-Genética-Equinos-MGB43005-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Melhoria Genética – Organismos Aquáticos Cultiváveis",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/08/Melhoria-Genetica-Organismos-Aquaticos-Cultivaveis-MGB43013-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Seleção Clonal de Alho",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/09/Seleção-Clonal-de-Alho-MGB43010-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Avaliações Genômicas de Ovinos",
+        "link": "http://datasebrae.com.br/wp-content/uploads/2025/12/AVALIACOES-GENOMICAS-DE-OVINOS-MGB-43015-1-.pdf "
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Planejamento Tecnológico",
+        "descricao": "Elaboração de Projeto de Inovação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Elaboracao-de-Projeto-de-Inovacao-PT44003-3.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Planejamento Tecnológico",
+        "descricao": "Estudo de Prospecção Tecnológica",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Estudo-de-Prospecção-Tecnológica-PT44001-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Planejamento Tecnológico",
+        "descricao": "Planejamento Estratégico Tecnológico",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Planejamento-Estratégico-Tecnológico-PT44002-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Depósito de Patente de Invenção ou de Modelo de Utilidade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Depósito-de-Patente-de-Invenção-ou-de-Modelo-de-Utilidade-PI45001-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Elaboração de Recurso",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/04/Elaboracao-de-Recurso-PI45002-3.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Registro – Topografia de circuitos integrados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Registro-Topografia-de-circuitos-integrados-PI45003-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Registro de Desenho Industrial",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Registro-de-Desenho-Industrial-PI45004-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Registro de Programa de Computador",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/06/Registro-de-Programa-de-Computador-PI45005-3.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Requerimento de Proteção – Cultivares",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Requerimento-de-Proteção-Cultivares-PI45006-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria em Habilitação de Solução de IA Generativa – Agente de Produto para definição de preço de venda",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/09/Consultoria-em-Habilitacao-de-Solucao-de-IA-Generativa-Agente-de-Produto-para-definicao-de-preco-de-venda-TD46027-1.pdf"
+    },
+    {
+        "estado": "GO",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria em Habilitação de Solução de IA Generativa – Agente de Produto para definição de preço de venda",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/09/Consultoria-em-Habilitacao-de-Solucao-de-IA-Generativa-Agente-de-Produto-para-definicao-de-preco-de-venda-TD46027-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria em Habilitação de Solução de IA Generativa – Agente RH para Contratação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/09/Consultoria-em-Habilitacao-de-Solucao-de-IA-Generativa-Agente-RH-para-contratacao-TD46028-1.pdf"
+    },
+    {
+        "estado": "GO",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria em Habilitação de Solução de IA Generativa – Agente RH para Contratação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/09/Consultoria-em-Habilitacao-de-Solucao-de-IA-Generativa-Agente-RH-para-contratacao-TD46028-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de Canais Digitais Setoriais no Agronegócio ",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/09/Implantacao-de-Canais-Digitais-Setoriais-no-Agronegocio-TD46029-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Funil de Vendas Inteligente para Pequenos Negócios",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/09/Funil-de-Vendas-Inteligente-para-Pequenos-Negocios-TD46030-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Rastreabilidade Bovina",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/RASTREABILIDADE-BOVINA-TD46026-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Procedimento Estruturado Para Aplicações com Inteligência Artificial (PE-AIA)",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/PROCEDIMENTO-ESTRUTURADO-PARA-APLICACOES-COM-INTELIGENCIA-ARTIFICIAL-PE-AIA-TD46025-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Cardápio Digital Interativo",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Cardápio-Digital-Interativo-TD46017-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria Omnichannel Para Integração dos Canais de Vendas",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-Omnichannel-Para-Integração-dos-Canais-de-Vendas-TD46009-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria para Growth Hacking",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Growth-Hacking-TD46010-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria para Mapeamento de Fluxo de Pessoas e Inteligência de Varejo ",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Mapeamento-de-Fluxo-de-Pessoas-e-Inteligência-de-Varejo-TD46007-3.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Desenvolvimento de aplicativos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/09/Desenvolvimento-de-aplicativos-TD46004-6.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Desenvolvimento De Mídias Digitais De Comunicação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Desenvolvimento-de-Midias-Digitais-de-Comunicacao-TD46011-5.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Desenvolvimento de Sistemas Industriais Inteligentes",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/06/Desenvolvimento-de-Sistemas-Industriais-TD46018-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Desenvolvimento de sistemas para Web",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Desenvolvimento-de-sistemas-para-Web-TD46013-2.pdf"
+    },
+    {
+        "estado": "GO",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Desenvolvimento de sistemas para Web",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Desenvolvimento-de-sistemas-para-Web-TD46013-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Elaboração e Implementação de Projeto de Automação Industrial",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/06/Elaboração-e-Implementação-de-Projeto-de-Automação-Industrial-TD46019-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Geomarketing e Geolocalização de clientes",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/10/Geomarketing-e-Geolocalizacao-de-clientes-TD46016-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Gestão de Negócios Baseados em Análise e Inteligência em Dados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/12/Gestao-de-Negocios-Baseados-em-Analise-e-Inteligencia-em-Dados-TD46021-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de tecnologias digitais para bares, restaurantes e padarias",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/12/Implantacao-de-Tecnologias-Digitais-para-Bares-Restaurantes-e-Padarias-TD46022-1.pdf"
+    },
+    {
+        "estado": "GO",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de tecnologias digitais para bares, restaurantes e padarias",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/12/Implantacao-de-Tecnologias-Digitais-para-Bares-Restaurantes-e-Padarias-TD46022-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de ferramentas do whatsapp para automação de vendas e gestão comercial",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/12/Implantacao-de-Ferramentas-do-WhatsApp-para-Automacao-de-Vendas-e-Gestao-Comercial-TD46023-1.pdf"
+    },
+    {
+        "estado": "GO",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de ferramentas do whatsapp para automação de vendas e gestão comercial",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/12/Implantacao-de-Ferramentas-do-WhatsApp-para-Automacao-de-Vendas-e-Gestao-Comercial-TD46023-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação da Integração de Sistemas Produtivos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/11/Implantacao-da-Integracao-de-Sistemas-Produtivos-TD46020-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de tecnologias digitais para bares, restaurantes e padarias",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/12/Implantacao-de-Tecnologias-Digitais-para-Bares-Restaurantes-e-Padarias-TD46022-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de ferramentas do whatsapp para automação de vendas e gestão comercial",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/12/Implantacao-de-Ferramentas-do-WhatsApp-para-Automacao-de-Vendas-e-Gestao-Comercial-TD46023-1.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de Loja Virtual",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Implantacao-de-Loja-Virtual-TD46002-9.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Inserção digital – Desenvolvimento de WebSite",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Insercao-digital-%E2%80%93-Desenvolvimento-de-WebSite-TD46003-6.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Planejamento e preparação para comercialização em marketplace",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Planejamento-e-preparacao-para-comercializacao-em-marketplace-TD46015-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Planejamento para Busca Orgânica – SEO",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/06/Planejamento-para-Busca-Orgânica-SEO-TD46008-2.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Planejamento para Presença Digital e links patrocinados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Planejamento-para-presenca-digital-e-links-patrocinados-TD46005-6-Sugestao.pdf"
+    },
+    {
+        "estado": "AL",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Realidade Aumentada para os Pequenos Negócios",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/09/Realidade-Aumentada-para-os-Pequenos-Negócios-TD46012-5.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Organização e Controle de Estoque",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Organizacao-e-Controle-de-Estoque-CS11002-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Otimização da Cadeia de Suprimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Otimização-da-Cadeia-de-Suprimentos-CS11003-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma ABNT NBR ISO 22000:2019 – Sistemas de gestão da segurança de alimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/07/Certificação-conforme-norma-ABNT-NBR-ISO-220002019-–-Sistemas-de-gestão-da-segurança-de-alimentos-CI12001-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR 15575:2013 – Desempenho de Edificações Habitacionais",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/09/Adequação-à-norma-ABNT-NBR-15575-2013-Desempenho-de-Edificações-Habitacionais-GQ13002-4.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR 16170:2013 – Qualidade do Pão tipo Francês",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-Norma-ABNT-NBR-16170-2013-Qualidade-do-Pão-tipo-Francês-GQ13003-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 9001:2015 – Sistema de Gestão da Qualidade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-9001-2015-Sistema-de-Gestão-da-Qualidade-GQ13004-4.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 21101:2014, 21102:2021 e 21103:2014 – Turismo de aventura – Sistemas de gestão da segurança, líderes e informações aos participantes",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/10/Adequação-às-normas-ABNT-NBR-ISSO-21101-21102-e-21103-Turismo-de-Aventura-GQ13050-4.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 21401:2020 – Turismo e serviços relacionados – Sistema de gestão da sustentabilidade para meios de hospedagem",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-21401-2020-Turismo-e-serviços-relacionados-Sis.-de-gestão-da-sust.-para-meios-de-hosp.-GQ13064-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 22000:2019 – Sistemas de Gestão de Segurança de Alimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-22000-2019-Sistemas-de-Gestão-de-Segurança-de-Alimentos-GQ13009-4.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 22301:2013 – Segurança da Sociedade – Sistema de Gestão de Continuidade de Negócios",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-22301-2013-Segurança-da-Sociedade-Sistema-de-Gestão-de-Continuidade-de-Negócios-GQ13067-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 27001 – Gestão de Segurança da Informação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-27001-Gestão-de-Segurança-da-Informação-GQ13054-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO IEC 17025:2017 – Requisitos gerais para a competência de laboratórios de ensaio e calibração",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Adequação-à-norma-ABNT-NBR-ISO-IEC-17025-2017-GQ13005-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO IEC 20000-1:2020 – Tecnologia da Informação – Gestão de Serviços",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/08/Adequação-à-norma-ABNT-NBR-ISO-IEC-20000-1-2020-Tecnologia-da-Informação-Gestão-de-Serviços-GQ13046-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma IATF 16949:2016 – Sistema de Gestão da Qualidade Automotiva",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-Norma-IATF-169492016-–-Sistema-de-Gestão-da-Qualidade-Automotiva-GQ13034-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma Rainforest Alliance para Agricultura Sustentável (RAS",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-Rainforest-Alliance-para-Agricultura-Sustentável-RAS-GQ13014-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma SASSMAQ – Sistema de Avaliação em Segurança, Saúde, Meio Ambiente e Qualidade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-SASSMAQ-Sistema-de-Avaliação-em-Segurança-Saúde-Meio-Ambiente-e-Qualidade-GQ13042-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à regulamentação da produção orgânica",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/05/Adequação-à-regulamentação-da-produção-orgânica-GQ13008-4.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à Resolução ANTT nº 5232 – Transporte de Produtos Perigosos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-Resolução-ANTT-nº-5232-Transporte-de-Produtos-Perigosos-GQ13043-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação ao Programa Brasileiro da Qualidade e Produtividade do Habitat (PBQP-H",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/07/Adequação-ao-Programa-Brasileiro-da-Qualidade-e-Produtividade-do-Habitat-PBQP-H-GQ13006-5.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação da Área de Produção à Legislação Sanitária",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/08/Adequação-da-Área-de-Produção-à-Legislação-Sanitária-GQ13001-5.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação das indústrias de artefatos de concreto aos critérios do programa do Selo de Qualidade ABCP",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/01/Adequação-das-indústrias-ao-Selo-de-Qualidade-ABCP-GQ13072-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação de agroindústrias aos Serviços de Inspeção de Produtos de Origem Animal e/ou Vegetal",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/Adequacao-de-agroindustrias-aos-Servicos-de-Inspecao-de-Produtos-de-Origem-Animal-e-ou-Vegetal-GQ13007-7.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação de Estabelecimentos Produtores de Bebidas Alcoólicas Para Registro",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-de-Estabelecimentos-Produtores-de-Bebidas-Alcoólicas-Para-Registro-GQ13059-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Desenvolvimento de Produto",
+        "descricao": "Prototipagem de Moldes de Injeção e/ou Fundição",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/11/Prototipagem-de-Moldes-de-Injecao-e-ou-Fundicao-DP41007-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Desenvolvimento de Produto",
+        "descricao": "Prototipagem de Novos Produtos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Prototipagem-de-Novos-Produtos-DP41004-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Desenvolvimento de Produto",
+        "descricao": "Prototipagem via Laboratório Aberto",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Prototipagem-via-Laboratório-Aberto-DP41005-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Gestão da Inovação",
+        "descricao": "Desenvolvimento de Negócios Inovadores Internacionalização",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/11/DESENVOLVIMENTO-DE-NEGOCIOS-INOVADORES-INTERNACIONALIZACAO-GI-42005-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Gestão da Inovação",
+        "descricao": "Desenvolvimento de Negócios Inovadores – Operação no mercado",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/04/Desenvolvimento-de-Negocios-Inovadores-–-Operacao-da-empresa-GI42003-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Gestão da Inovação",
+        "descricao": "Desenvolvimento de Negócios Inovadores – Tração e escala no mercado",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/04/Desenvolvimento-de-Negocios-Inovadores-–-Tracao-e-escala-no-mercado-GI42004-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Gestão da Inovação",
+        "descricao": "Desenvolvimento de Negócios Inovadores – Validação do Negócio",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/05/Desenvolvimento-de-Negocios-Inovadores-–-Validacao-do-Negocio-GI42002-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Gestão da Inovação",
+        "descricao": "Implantação de processos de Gestão da Inovação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/08/Implantação-de-processos-de-Gestão-da-Inovação-GI42001-6.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Avaliações Genômicas de Rebanhos Leiteiros",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/05/Avaliações-Genômicas-de-Rebanhos-Leiteiros-MGB43009-4.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Avaliações Genômicas de Suínos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/05/Avaliacoes-Genomicas-de-Suinos-MGB43012-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Consultoria para a Implantação de Estratégias de Manejo de Moscas-das-Frutas baseadas no Controle Autocida",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-a-Implantação-de-Estratégias-de-Manejo-de-Moscas-das-Frutas-baseadas-no-Controle-Autocida-MGB43003-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Consultoria para Monitoramento de Mosca-das-Frutas em Pomares de Frutas",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Monitoramento-de-Mosca-das-Frutas-em-Pomares-de-Frutas-MGB43004-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Fertilização In Vitro FIV – Rebanho",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Fertilizacao-In-Vitro-FIV-Rebanho-MGB43001-10.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Genotipagem para Beta Caseína para Rebanhos Leiteiros",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/06/Genotipagem-para-Beta-Caseína-para-Rebanhos-Leiteiros-MGB43011-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Injeção Intracitoplasmática de Espermatozoides (ICSI) na Reprodução de Equinos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Injeção-Intracitoplasmática-de-Espermatozoides-ICSI-na-Reprodução-de-Equinos-MGB43007-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Inseminação Artificial por Tempo Fixo – IATF – Rebanho",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/05/Inseminacao-Artificial-por-Tempo-Fixo-IATF-Rebanho-MGB43002-9.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Melhoramento Genético na Fruticultura",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Melhoramento-Genético-na-Fruticultura-MGB43006-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Melhoria Genética e Biotecnologia",
+        "descricao": "Seleção Clonal de Alho",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/09/Seleção-Clonal-de-Alho-MGB43010-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Planejamento Tecnológico",
+        "descricao": "Elaboração de Projeto de Inovação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Elaboracao-de-Projeto-de-Inovacao-PT44003-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Planejamento Tecnológico",
+        "descricao": "Estudo de Prospecção Tecnológica",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Estudo-de-Prospecção-Tecnológica-PT44001-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Planejamento Tecnológico",
+        "descricao": "Planejamento Estratégico Tecnológico",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Planejamento-Estratégico-Tecnológico-PT44002-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Depósito de Patente de Invenção ou de Modelo de Utilidade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Depósito-de-Patente-de-Invenção-ou-de-Modelo-de-Utilidade-PI45001-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Elaboração de Recurso",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/04/Elaboracao-de-Recurso-PI45002-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Registro de Desenho Industrial",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Registro-de-Desenho-Industrial-PI45004-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Registro de Programa de Computador",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/06/Registro-de-Programa-de-Computador-PI45005-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Propriedade Intelectual",
+        "descricao": "Requerimento de Proteção – Cultivares",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Requerimento-de-Proteção-Cultivares-PI45006-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Cardápio Digital Interativo",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Cardápio-Digital-Interativo-TD46017-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria Omnichannel Para Integração dos Canais de Vendas",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-Omnichannel-Para-Integração-dos-Canais-de-Vendas-TD46009-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria para Growth Hacking",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Growth-Hacking-TD46010-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Consultoria para Mapeamento de Fluxo de Pessoas e Inteligência de Varejo ",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-Mapeamento-de-Fluxo-de-Pessoas-e-Inteligência-de-Varejo-TD46007-3.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Desenvolvimento de aplicativos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/09/Desenvolvimento-de-aplicativos-TD46004-6.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Desenvolvimento De Mídias Digitais De Comunicação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Desenvolvimento-de-Midias-Digitais-de-Comunicacao-TD46011-5.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Desenvolvimento de sistemas para Web",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Desenvolvimento-de-sistemas-para-Web-TD46013-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Elaboração e Implementação de Projeto de Automação Industrial",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/06/Elaboração-e-Implementação-de-Projeto-de-Automação-Industrial-TD46019-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Geomarketing e Geolocalização de clientes",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/10/Geomarketing-e-Geolocalizacao-de-clientes-TD46016-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Gestão de Negócios Baseados em Análise e Inteligência em Dados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/12/Gestao-de-Negocios-Baseados-em-Analise-e-Inteligencia-em-Dados-TD46021-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de tecnologias digitais para bares, restaurantes e padarias",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/12/Implantacao-de-Tecnologias-Digitais-para-Bares-Restaurantes-e-Padarias-TD46022-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de ferramentas do whatsapp para automação de vendas e gestão comercial",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/12/Implantacao-de-Ferramentas-do-WhatsApp-para-Automacao-de-Vendas-e-Gestao-Comercial-TD46023-1.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Implantação de Loja Virtual",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Implantacao-de-Loja-Virtual-TD46002-9.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Inserção digital – Desenvolvimento de WebSite",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Insercao-digital-%E2%80%93-Desenvolvimento-de-WebSite-TD46003-6.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Planejamento e preparação para comercialização em marketplace",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Planejamento-e-preparacao-para-comercializacao-em-marketplace-TD46015-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Planejamento para Busca Orgânica – SEO",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/06/Planejamento-para-Busca-Orgânica-SEO-TD46008-2.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Planejamento para Presença Digital e links patrocinados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Planejamento-para-presenca-digital-e-links-patrocinados-TD46005-6-Sugestao.pdf"
+    },
+    {
+        "estado": "AP",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Realidade Aumentada para os Pequenos Negócios",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/09/Realidade-Aumentada-para-os-Pequenos-Negócios-TD46012-5.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Adequação de Processos Logísticos para Exportação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/Adequacao-de-processos-logisticos-para-exportacao-CI11004-1.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Organização e Controle de Estoque",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Organizacao-e-Controle-de-Estoque-CS11002-3.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Otimização da Cadeia de Suprimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Otimização-da-Cadeia-de-Suprimentos-CS11003-3.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Conforme Programa Qualidade ABSOLAR",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/Certificacao_Programa_Qualidade_ABSOLAR-CI12035-1.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Auditoria Conforme Regulamentos e Normas Técnicas Aplicados ao Turismo",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Auditoria-Conforme-Regulamentos-e-Normas-Técnicas-Aplicados-ao-Turismo-CI12012-2.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Auditoria Ética Comercial dos Membros da Sedex (SMETA) para Exportação – Código ETI",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/05/Auditoria-Smeta-ETI-Sedex-CI12030-1.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Auditoria para Acreditação ONA",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Auditoria-para-Acreditação-ONA-CI12013-2.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Auditoria para Certificação PBQPH",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Auditoria-para-certificação-PBQPH-CI12011-2.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Caracterização Física e Sensorial do Café",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Caracterização-Física-e-Sensorial-do-Café-CI12017-2.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Compulsória de Produtos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Certificação-Compulsória-de-Produtos-CI12021-3.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Conforme CMMI (Modelo Integrado de Maturidade e Capacidade) Versão 2.0",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Certificação-Conforme-CMMI-Modelo-Integrado-de-Maturidade-e-Capacidade-Versão-2.0-CI12016-3.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Conforme Modelo MPS.BR-SV, RH e SW",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-Conforme-Modelo-MPS.BR-SV-RH-E-SW-CI12015-2.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma ABNT NBR ISO 13485:2016 – Dispositivos Médicos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-conforme-norma-ABNT-NBR-ISO-13485-2016-Dispositivos-Médicos-CI12026-1.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma ABNT NBR ISO 14001:2015 – Sistema De Gestão Ambiental",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-conforme-norma-ABNT-NBR-ISO-14001-2015-–-Sistema-De-Gestão-Ambiental-CI12023-2.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Planejamento e preparação para comercialização em marketplace",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Planejamento-e-preparacao-para-comercializacao-em-marketplace-TD46015-2.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Planejamento para Busca Orgânica – SEO",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/06/Planejamento-para-Busca-Orgânica-SEO-TD46008-2.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Planejamento para Presença Digital e links patrocinados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Planejamento-para-presenca-digital-e-links-patrocinados-TD46005-6-Sugestao.pdf"
+    },
+    {
+        "estado": "AM",
+        "classe": "Desenvolvimento Tecnológico",
+        "subclasse": "Transformação Digital",
+        "descricao": "Realidade Aumentada para os Pequenos Negócios",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/09/Realidade-Aumentada-para-os-Pequenos-Negócios-TD46012-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Adequação de Processos Logísticos para Exportação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/Adequacao-de-processos-logisticos-para-exportacao-CI11004-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Organização e Controle de Estoque",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Organizacao-e-Controle-de-Estoque-CS11002-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Cadeia de Suprimentos",
+        "descricao": "Otimização da Cadeia de Suprimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Otimização-da-Cadeia-de-Suprimentos-CS11003-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Conforme Programa Qualidade ABSOLAR",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/Certificacao_Programa_Qualidade_ABSOLAR-CI12035-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Auditoria Conforme Regulamentos e Normas Técnicas Aplicados ao Turismo",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Auditoria-Conforme-Regulamentos-e-Normas-Técnicas-Aplicados-ao-Turismo-CI12012-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Auditoria Ética Comercial dos Membros da Sedex (SMETA) para Exportação – Código ETI",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/05/Auditoria-Smeta-ETI-Sedex-CI12030-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Auditoria para Acreditação ONA",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Auditoria-para-Acreditação-ONA-CI12013-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Auditoria para Certificação PBQPH",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Auditoria-para-certificação-PBQPH-CI12011-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Caracterização Física e Sensorial do Café",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Caracterização-Física-e-Sensorial-do-Café-CI12017-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Compulsória de Produtos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Certificação-Compulsória-de-Produtos-CI12021-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Conforme CMMI (Modelo Integrado de Maturidade e Capacidade) Versão 2.0",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Certificação-Conforme-CMMI-Modelo-Integrado-de-Maturidade-e-Capacidade-Versão-2.0-CI12016-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Conforme Modelo MPS.BR-SV, RH e SW",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-Conforme-Modelo-MPS.BR-SV-RH-E-SW-CI12015-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma ABNT NBR ISO 13485:2016 – Dispositivos Médicos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-conforme-norma-ABNT-NBR-ISO-13485-2016-Dispositivos-Médicos-CI12026-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma ABNT NBR ISO 14001:2015 – Sistema De Gestão Ambiental",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-conforme-norma-ABNT-NBR-ISO-14001-2015-–-Sistema-De-Gestão-Ambiental-CI12023-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma ABNT NBR ISSO 21101:2014 – Turismo de Aventura – Sistemas de gestão de segurança – Requisitos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/09/Certificação-conforme-norma-ABNT-NBR-ISO-21101-2014-Turismo-de-Aventura-Sistemas-de-Gestão-da-Segurança-Requisitos-CI12032-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma ABNT NBR ISO 22000:2019 – Sistemas de gestão da segurança de alimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/07/Certificação-conforme-norma-ABNT-NBR-ISO-220002019-–-Sistemas-de-gestão-da-segurança-de-alimentos-CI12001-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma ABNT NBR ISO 45001 – Sistema de Gestão de Saúde e Segurança Ocupacional (SGSSO",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-conforme-norma-ABNT-NBR-ISO-45001-–-Sistema-de-Gestão-de-Saúde-e-Segurança-Ocupacional-SGSSO-CI12024-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma ABNT NBR ISO 9001:2015 – Sistema de gestão da qualidade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/09/Certificação-conforme-norma-ABNT-NBR-ISO-90012015-–-Sistema-de-gestão-da-qualidade-CI12003-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Conforme Norma ABNT NBR ISO/IEC 29110 – Engenharia de Software: Perfis de Ciclo de Vida para Micro-Organizações",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Certificação-conforme-norma-ABNT-NBR-ISO-IEC-29110-Engenharia-de-Software-CI12019-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme norma Rainforest Alliance para Agricultura Sustentável (RAS",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-conforme-norma-Rainforest-Alliance-para-Agricultura-Sustentável-RAS-CI12002-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Conforme Programa da Associação Brasileira do Varejo Têxtil – ABVTEX",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-Conforme-Programa-da-Associação-Brasileira-do-Varejo-Têxtil-ABVTEX-CI12009-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação conforme protocolo GlobalGAP",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Certificação-conforme-protocolo-GlobalGAP-CI12010-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "</a></li> ",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/09/Certificação-conforme-requisitos-do-Programa-de-Desenvolvimento-e-Qualificação-de-Fornecedores-PRODFOR-CI12004-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação de Bem-Estar Animal",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-de-Bem-Estar-Animal-CI12025-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação de Conteúdo Local Para Serviços e Equipamentos (ANP",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-de-Conteúdo-Local-Para-Serviços-e-Equipamentos-ANP-CI12014-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação de Origem Sustentável da Cadeia Calçadista",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/07/Certificação-de-Origem-Sustentável-da-Cadeia-Calçadista-CI12031-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação de Produtos Orgânicos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/05/Certificação-de-Produtos-Orgânicos-CI12007-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação de serviços automotivos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/02/Certificação-de-Serviços-Automotivos-CI12006-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Halal – Por Auditoria",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificação-Halal-Por-Auditoria-CI12018-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Kosher",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/10/Certificação-Kosher-CI12027-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Vacas A2A2 – Fazendas e Indústricas Lácteas",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/08/Certificacao-Vacas-A2A2-Fazendas-e-Industricas-Lacteas-CI12034-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Inspeção Predial de acordo com a norma ABNT NBR 16747:2020",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Inspeção-Predial-de-acordo-com-a-norma-ABNT-NBR-16747-2020-CI12028-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Certificação/Inspeção",
+        "descricao": "Certificação Conforme Norma Fsc Para Manejo Florestal De Florestas Nativas E Plantadas",
+        "link": "http://datasebrae.com.br/wp-content/uploads/2025/08/Certificacao-Conforme-Norma-Fsc-Para-Manejo-Florestal-De-Florestas-Nativas-E-Plantadas-CI12033-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação ao Primary Farm Assurance (PFA) do GLOBALG.A.P",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/07/ADEQUACAO-AO-PRIMARY-FARM-ASSURANCE-PFA-DO-GLOBALG.A.P.-GQ14085-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação de Laboratório de Ensaios conforme ABNT NBR 6136.2016 e NBR 12118.2014 – Blocos Vazados de Concreto para Alvenaria",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/Adequacao-de-Laboratorio-de-Ensaios-conforme-ABNT-NBR-6136.2016-e-NBR-12118.2014-Blocos-Vazados-de-Concreto-para-Alvenaria-GQ14083-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação ao Programa de Certificação Qualidade ABSOLAR",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/ADEQUACAO-AO-PROGRAMA-DE-CERTIFICACAO-QUALIDADE-GQ14084-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "REURB (Regularização Fundiária Urbana",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/REGULARIZACAO_FUNDIARIA_URBANA-REURB-GQ14086-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação e Solicitação de Registro em Órgãos Regulatórios de Inspeção e Vigilância Sanitária no Exterior",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/Adequacao-e-solicitacao-de-registro-em-orgaos-regulatorios-no-exterior-GQ14085-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à Certificação de Origem Sustentável da Cadeia Calçadista",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/07/Adequação-à-Certificação-de-Origem-Sustentável-da-Cadeia-Calçadista-GQ13076-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à Certificação de Processos de Teste MPT.BR Nível 2",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-Certificação-de-Processos-de-Teste-MPT.BR-Nível-2-GQ13052-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à Lei Geral de Proteção de Dados (LGPD",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/12/Adequacao-a-Lei-Geral-de-Protecao-de-Dados-LGPD-GQ13070-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação de Laboratórios Clínicos Conforme RDC 786-2023",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/07/ADEQUACAO-DE-LABORATORIOS-CLINICOS-CONFORME-RDC-786-2023-GQ13082-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à Norma ABNT NBR 15270:2023 – Componentes Cerâmicos – Blocos e Tijolos para Alvenaria",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/08/Adequacao-a-Norma-ABNT-NBR-15270-2023-Componentes-Ceramicos-Blocos-e-Tijolos-para-Alvenaria-GQ13079-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR 15575:2013 – Desempenho de Edificações Habitacionais",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/09/Adequação-à-norma-ABNT-NBR-15575-2013-Desempenho-de-Edificações-Habitacionais-GQ13002-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR 16170:2013 – Qualidade do Pão tipo Francês",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-Norma-ABNT-NBR-16170-2013-Qualidade-do-Pão-tipo-Francês-GQ13003-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 9001:2015 – Sistema de Gestão da Qualidade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-9001-2015-Sistema-de-Gestão-da-Qualidade-GQ13004-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à Norma NBR 13230:11/2008 – Identificação e Simbologia",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/04/Adequa%C3%A7%C3%A3o-%C3%A0-Norma-NBR-1323011-2008-Identifica%C3%A7%C3%A3o-e-Simbologia-GQ13075-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR 11564:2021 – Normatização sobre embalagens de produtos perigosos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/04/Adequa%C3%A7%C3%A3o-%C3%A0-norma-ABNT-NBR-115642021-Normatiza%C3%A7%C3%A3o-sobre-embalagens-de-produtos-perigosos-GQ13074-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 13485:2016 – Dispositivos Médicos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-13485-2016-Dispositivos-Médicos-GQ13066-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 15189:2024 – Laboratórios Clínicos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Adequacao-a-norma-ABNT-NBR-ISO-15189-2024-%E2%80%93-Laboratorios-Clinicos-GQ13038-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 21101:2014, 21102:2021 e 21103:2014 – Turismo de aventura – Sistemas de gestão da segurança, líderes e informações aos participantes",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/10/Adequação-às-normas-ABNT-NBR-ISSO-21101-21102-e-21103-Turismo-de-Aventura-GQ13050-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 21401:2020 – Turismo e serviços relacionados – Sistema de gestão da sustentabilidade para meios de hospedagem",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-21401-2020-Turismo-e-serviços-relacionados-Sis.-de-gestão-da-sust.-para-meios-de-hosp.-GQ13064-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 22000:2019 – Sistemas de Gestão de Segurança de Alimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-22000-2019-Sistemas-de-Gestão-de-Segurança-de-Alimentos-GQ13009-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 22301:2013 – Segurança da Sociedade – Sistema de Gestão de Continuidade de Negócios",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-22301-2013-Segurança-da-Sociedade-Sistema-de-Gestão-de-Continuidade-de-Negócios-GQ13067-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 27001 – Gestão de Segurança da Informação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-ABNT-NBR-ISO-27001-Gestão-de-Segurança-da-Informação-GQ13054-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO 31000:2018 – Gestão de Riscos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/04/Adequa%C3%A7%C3%A3o-%C3%A0-norma-ABNT-NBR-ISO-31000-2018-Gest%C3%A3o-de-Riscos-GQ13073-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO IEC 17025:2017 – Requisitos gerais para a competência de laboratórios de ensaio e calibração",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Adequação-à-norma-ABNT-NBR-ISO-IEC-17025-2017-GQ13005-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma ABNT NBR ISO IEC 20000-1:2020 – Tecnologia da Informação – Gestão de Serviços",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/08/Adequação-à-norma-ABNT-NBR-ISO-IEC-20000-1-2020-Tecnologia-da-Informação-Gestão-de-Serviços-GQ13046-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma IATF 16949:2016 – Sistema de Gestão da Qualidade Automotiva",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-Norma-IATF-169492016-–-Sistema-de-Gestão-da-Qualidade-Automotiva-GQ13034-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma Rainforest Alliance para Agricultura Sustentável (RAS",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-Rainforest-Alliance-para-Agricultura-Sustentável-RAS-GQ13014-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à norma SASSMAQ – Sistema de Avaliação em Segurança, Saúde, Meio Ambiente e Qualidade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-norma-SASSMAQ-Sistema-de-Avaliação-em-Segurança-Saúde-Meio-Ambiente-e-Qualidade-GQ13042-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à regulamentação da produção orgânica",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/05/Adequação-à-regulamentação-da-produção-orgânica-GQ13008-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à Resolução ANTT nº 5232 – Transporte de Produtos Perigosos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-Resolução-ANTT-nº-5232-Transporte-de-Produtos-Perigosos-GQ13043-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação à Série de normas ABNT NBR ISO 12647 – Tecnologia Gráfica – Provas Digitais",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-à-Série-de-Normas-ABNT-NBR-ISO-12647-Tecnologia-Gráfica-Provas-Digitais-GQ13039-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação ao Caderno de Especificações Técnicas e Plano de Controle de Indicação Geográfica",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-ao-Caderno-de-Especificações-Técnicas-e-Plano-de-Controle-de-Indicação-Geográfica-GS13035-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação ao Programa Brasileiro da Qualidade e Produtividade do Habitat (PBQP-H",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/07/Adequação-ao-Programa-Brasileiro-da-Qualidade-e-Produtividade-do-Habitat-PBQP-H-GQ13006-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação ao Regulamento do Serviço de Comunicação Multimídia (Anatel",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-ao-Regulamento-do-Serviço-de-Comunicação-Multimídia-Anatel-GQ13045-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação às normas ABNT NBR 14037 – Diretrizes para elaboração de manuais de uso, operação e manutenção das edificações e ABNT NBR 5674 – Manutenção de edificações",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/10/Adequação-às-normas-ABNT-NBR-14037-Diretrizes-para-elaboração-de-manuais-de-uso-operação-e-manutenção-das-edificações-e-ABNT-NBR-5674-GQ13071-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação às normas de Qualidade para Serviços Automotivos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Adequação-às-normas-de-Qualidade-para-Serviços-Automotivos-GQ13030-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação Conforme CMMI (Modelo Integrado de Maturidade e Capacidade) Versão 2.0",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/09/Adequação-Conforme-CMMI-Modelo-Integrado-de-Maturidade-e-Capacidade-Versão-2.0-GQ13041-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação conforme modelo MPS.BR-SV, RH e SW",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-Conforme-Modelo-MPS.BR-SV-RH-e-SW-GQ13047-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação conforme Protocolo GlobalGAP",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-conforme-Protocolo-GLOBALGAP-GQ13026-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação da Área de Produção à Legislação Sanitária",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/08/Adequação-da-Área-de-Produção-à-Legislação-Sanitária-GQ13001-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação das indústrias de artefatos de concreto aos critérios do programa do Selo de Qualidade ABCP",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/01/Adequação-das-indústrias-ao-Selo-de-Qualidade-ABCP-GQ13072-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação de agroindústrias aos Serviços de Inspeção de Produtos de Origem Animal e/ou Vegetal",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/08/Adequacao-de-agroindustrias-aos-Servicos-de-Inspecao-de-Produtos-de-Origem-Animal-e-ou-Vegetal-GQ13007-7.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação de Estabelecimentos Produtores de Bebidas Alcoólicas Para Registro",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-de-Estabelecimentos-Produtores-de-Bebidas-Alcoólicas-Para-Registro-GQ13059-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação de indústrias às boas práticas de fabricação de produtos saneantes, de higiene pessoal, cosméticos e perfumes",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/04/Adequa%C3%A7%C3%A3o-de-ind.-%C3%A0s-boas-pr%C3%A1ticas-de-fab.-de-prod.-saneantes-de-higiene-pessoal-cosm%C3%A9ticos-e-perfumes-GQ13055-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação de Produtos aos Regulamentos Técnicos e aos Mecanismos de Avaliação da Conformidade Compulsórios ",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-de-Produtos-aos-Regulamentos-Técnicos-e-aos-Mecanismos-de-Avaliação-da-Conformidade-Compulsórios-GQ13062-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação do Manejo Nutricional do Rebanho Leiteiro ou de Corte",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Adequacao-do-Manejo-Nutricional-de-Rebanho-Leiteiro-GQ13028-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação para Certificação de Produção de Leite A2A2 e seus derivados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/08/Adequacao-para-Certificacao-de-Producao-de-Leite-A2A2-e-seus-derivados-GQ13080-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Avaliação de Tempo de Vida de Prateleira",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/08/Avaliação-de-Tempo-de-Vida-de-Prateleira-GQ13024-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Avaliação e Comprovação de Produtos para Denominação de Origem IG",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/08/Avaliacao-e-Comprovacao-de-Produtos-para-Denominacao-de-Origem-IG-GQ13078-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Boas Práticas de higiene e segurança dos alimentos para o setor de alimentos e bebidas",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Boas-Práticas-de-higiene-e-segurança-dos-alimentos-para-o-setor-de-alimentos-e-bebidas-GQ13019-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Boas Práticas na Produção Primária e Distribuição de Hortifrutigranjeiros",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Boas-Práticas-na-Produção-Primária-e-Distribuição-de-Hortifrutigranjeiros-GQ13018-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Certificado de Registro Cadastral – CRC (Setor Petróleo",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Certificado-de-Registro-Cadastral-CRC-Setor-Petróleo-GQ13037-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Cliente Oculto",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Cliente-Oculto-GQ13029-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Georreferenciamento do Empreendimento Rural",
+        "link": "http://datasebrae.com.br/wp-content/uploads/2026/01/Georreferenciamento-do-Empreendimento-Rural-GQ13032-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Implantação de Requisitos da Norma ABNT NBR ISO/IEC 29110 – Engenharia de Software: Perfis de Ciclo de Vida para Micro-Organizações",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Implantação-de-Requisitos-da-Norma-ABNT-NBR-ISO-IEC-29110-Engenharia-de-Software-GQ13061-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Implantação dos requisitos de conformidade da certificação de empreiteiros de obra",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/12/Implantacao-dos-requisitos-da-certificacao-de-empreiteiros-de-obra-GQ13081-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Implantação de Requisitos de Qualidade, Meio Ambiente, Saúde e Segurança no Trabalho, Eficiência Operacional, Eficiência Energética e Compliance para Fornecedores",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/11/Implantação-de-Requisitos-de-Qualidade-Meio-Ambiente-e-Saúde-e-Segurança-no-Trabalho-Eficiência-Operacional-Eficiência-Energética-e-Compliance-para-Fornecedores-GQ13033-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Implantação de Requisitos para Acreditação Hospitalar – ONA",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/04/Implantacao-de-Requisitos-para-Acreditacao-Hospitalar-–-ONA-GQ13025-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Implantação de Sistemas de Gestão Integrado",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Implantação-de-Sistemas-de-Gestão-Integrado-GQ13010-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Melhoria da Qualidade do Leite",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/09/Melhoria-na-Qualidade-do-Leite-GS13036-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Metrologia – Calibração",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/03/Metrologia-Calibração-GQ13012-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Metrologia – Ensaios",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Metrologia-Ensaios-GQ13013-6.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Preservação de Produtos por Técnicas de Congelamento e/ou Ultracongelamento",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Preservação-de-Produtos-por-Técnicas-de-Congelamento-e-ou-Ultracongelamento-GQ13058-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Processo para a FSSC 22000",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Processo-para-a-FSSC-22000-GQ13057-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Qualidade do Café – Critérios SCAA – Colheita e Pós-Colheita",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Qualidade-do-Café-Critérios-SCAA-Colheita-e-Pós-Colheita-GQ13020-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Qualidade no Turismo – Implantação de procedimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Qualidade-no-Turismo-Implantacao-de-procedimentos-GQ13022-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Rastreabilidade de Vegetais Frescos – Instrução Normativa Conjunta 02-2018 (MAPA",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Rastreabilidade-de-Vegetais-Frescos-Instrução-Normativa-Conjunta-02-2018-MAPA-GQ13031-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Rotulagem de alimentos e Informação Nutricional",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Rotulagem-de-alimentos-e-informacao-nutricional-GQ13015-11.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Sistema APPCC – Análise de Perigos e Pontos Críticos de Controle",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Sistema-APPCC-–-Análise-de-Perigos-e-Pontos-Críticos-de-Controle-GQ13056-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Gestão da Qualidade",
+        "descricao": "Adequação às Normas FSC para Manejo Florestal e Cadeia de Custódia ",
+        "link": "http://datasebrae.com.br/wp-content/uploads/2024/05/Adequacao-as-Normas-FSC-para-Manejo-Florestal-e-Cadeia-de-Custodia-GQ13077-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Adequação às Boas Práticas de Beneficiamento em Casas de Mel",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Adequação-às-Boas-Práticas-de-Beneficiamento-em-Casas-de-Mel-MMP14022-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Adequação de espaços físicos de empresas devastadas por calamidade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/02/Adequação-de-espaços-físicos-de-empresas-devastadas-por-calamidade-MMP14068-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Adequação e preparação de animais para comercialização virtual",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/06/Adequação-e-preparação-de-animais-para-comercialização-virtual-MMP14063-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Agricultura de Precisão: Mapa de Fertilidade de Solo",
+        "link": "http://datasebrae.com.br/wp-content/uploads/2025/12/Agricultura-de-Precisao-Mapa-de-Fertilidade-de-Solo-MMP14056-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Aplicação do método de implementação de softwares com tecnologia BIM",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Aplicação-do-método-de-implementação-de-softwares-com-tecnologia-BIM-MMP14048-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Avaliação de Carcaça de Bovino de Corte destinada à Carne Nobre",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Avaliação-de-Carcaça-de-Bovino-de-Corte-destinado-à-Carne-Nobre-MMP14044-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Avaliação de Loja",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Avaliação-de-Loja-MMP14020-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Avaliação de Processos nas Indústrias de Alimentos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Avaliação-de-Processos-nas-Indústrias-de-Alimentos-MMP14045-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Biotecnologia da Fermentação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Biotecnologia-da-Fermentação-MMP14029-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Boas práticas agrícolas",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Boas-Praticas-Agricolas-MMP14001-9.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Boas Práticas na Apicultura e na Meliponicultura",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/05/Boas-Praticas-na-Apicultura-e-na-Meliponilcultura-MMP14051-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Boas Práticas na Avicultura",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/05/Boas-Praticas-Na-Avicultura-MMP14037-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Boas Práticas na Pecuária de Leite e/ou Corte",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Boas-Praticas-na-Pecuaria-de-Leite-e-ou-Corte-MMP14002-8.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Boas Práticas no Extrativismo da Carnaúba",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/09/Boas-Práticas-no-Extrativismo-da-Carnaúba-MMP14066-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Boas Práticas no Segmento de Beleza",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Boas-Práticas-no-Segmento-de-Beleza-MMP14040-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Consultoria para acompanhamento de projeto piloto em BIM",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Consultoria-para-acompanhamento-de-projeto-piloto-em-BIM-MMP14049-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Elaboração do Plano de Implantação do Processo de Modelagem da Informação (BIM",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/11/Elaboracao-do-Plano-de-Implantacao-do-Processo-de-Modelagem-da-Informacao-BIM-MMP14047-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Controle e melhoria de processos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/09/Controle-e-Melhoria-de-Processos-MMP14003-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Conversão de Receitas Artesanais de Bebidas Alcoólicas para Produção Industrial",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Conversão-de-Receitas-Artesanais-de-Bebidas-Alcoólicas-para-Produção-Industrial-MMP14058-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Cultivo protegido em propriedades rurais",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Cultivo-protegido-em-propriedades-rurais-MMP14043-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Dimensionamento da capacidade produtiva",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Dimensionamento-da-capacidade-produtiva-MMP14004-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Elaboração de Cardápio e/ou Fichas Técnicas para segmentos de alimentação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Elaboracao-de-Cardapio-e-ou-fichas-tecnicas-para-segmentos-de-alimentacao-MMP14062-9.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Elaboração do Manual Técnico Operacional do Franqueador",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Elaboração-do-Manual-Técnico-Operacional-Franqueador-MMP14018-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Especificação do custo de fabricação do produto",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Especificação-do-custo-de-fabricação-do-produto-MMP14007-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Formatação de Franquia",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Formatacao-de-Franquia-MMP14031-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Framework OKR para Otimização de Processos",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/09/Framework-OKR-para-Otimização-de-Processos-MMP14065-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Ganhos Rápidos de Produtividade",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/06/Ganhos-Rápidos-de-Produtividade-MMP14067-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Implantação de Boas Práticas para Aperfeiçoamento de Manejo Reprodutivo",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Implantação-de-Boas-Práticas-para-Aperfeiçoamento-de-Manejo-Reprodutivo-MMP14024-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Implantação de lavoura de palma adensada",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Implantacao-de-lavoura-de-palma-adensada-MMP14025-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Implantação de pré-pesagem",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Implantação-de-pré-pesagem-MMP14008-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Implantação de Projeto de Produção Aquícola",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Implantação-de-Projeto-de-Produção-Aquícola-MMP14042-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Implantação de silo para alimentação animal",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2024/06/Implantacao-de-silo-para-alimentacao-animal-MMP14026-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Implantação do Código de Barra",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Implantação-do-Código-de-Barra-MMP14009-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Implantação do Sistema Kanban",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Implantação-do-Sistema-Kanban-MMP14014-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Implantação ou adequação na operação do Delivery",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/05/Implantação-ou-adequação-na-operação-do-Delivery-MMP14061-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Implementação de sistema de Integração Lavoura Pecuária e Floresta",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/04/Implementacao-de-sistema-de-integracao-Lavoura-Pecuaria-e-Floresta-MMP14070-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Introdução e Implantação de Tecnologia de Nutrição Vegetal via Fertirrigação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Introducao-e-Implantacao-de-Tecnologia-de-Nutricao-Vegetal-via-Fertirrigacao-MMP14041-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Lean Construction",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Lean-Construction-MMP14054-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Lean Farm",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Lean-Farm-MMP14021-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Lean Manufacturing",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Lean-Manufacturing-MMP14017-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Manejo para Aumento da Produtividade na Produção de Mel e Derivados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/04/Manejo-para-Aumento-da-Produtividade-na-Producao-de-Mel-e-Derivados-MMP14023-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Melhoramento de Produto na Indústria de Bebidas Alcoólicas",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Melhoramento-de-Produto-na-Indústria-de-Bebidas-Alcoólicas-MMP14057-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Melhoria de layout produtivo",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Melhoria-de-layout-produtivo-MMP14010-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Melhoria de Processo de Produção para o Segmento de Alimentação",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/02/Melhoria-de-Processo-Produtivo-para-o-Segmento-de-Alimentação-MMP14011-6.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Melhoria de Processo Produtivo para o Cultivo de Camarão e/ou Peixe",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Melhoria-de-Processo-Produtivo-para-o-Cultivo-de-Camarão-e-ou-Peixe-MMP14035-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Melhoria do Processo Produtivo Suinícola",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/08/Melhoria-do-Processo-Produtivo-Suinícola-MMP14053-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Modelagem de Empresas Franqueadoras",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/09/Modelagem-de-Empresas-Franqueadoras-MMP14069-1.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Modelagem e Graduação para Vestuário",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2022/05/Modelagem-e-Graduação-para-Vestuário-MMP14039-5.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Otimização de Processos com Conectividade (IoT",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/12/Otimização-de-Processos-com-Conectividade-IoT-MMP14019-4.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Parametrização de processos industriais automatizados",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Parametrização-de-processos-industriais-automatizados-MMP14012-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Pastagem e Culturas para Suporte Alimentar",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2021/10/Pastagem-e-Culturas-para-Suporte-Alimentar-MMP14027-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Planejamento e Controle da Manutenção (PCM)",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2023/04/Planejamento-e-Controle-da-Manutencao-PCM-MMP14055-3.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Planejamento e Controle de Produção",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2025/06/Planejamento-e-Controle-de-Producao-MMP14015-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Procedimento Operacional Padrão – POP",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Procedimento-Operacional-Padrão-POP-MMP14059-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Processos de Governança em Meios de Hospedagem",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Processos-de-Governança-em-Meios-de-Hospedagem-MMP14038-2.pdf"
+    },
+    {
+        "estado": "BA",
+        "classe": "Produção e Qualidade",
+        "subclasse": "Mapeamento e Melhoria de Processos",
+        "descricao": "Produção de Amêndoas de Cacau de Qualidade ",
+        "link": "https://datasebrae.com.br/wp-content/uploads/2020/04/Produção-de-Amêndoas-de-Cacau-de-Qualidade-MMP14030-2.pdf"
+    }
+]
